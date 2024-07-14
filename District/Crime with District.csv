@@ -1,0 +1,29 @@
+Crime Type,Category
+Murder,Violent Crime
+Attempt To Murder,Violent Crime
+Culpable Homicide Not Amounting To Murder,Violent Crime
+Rape,Sexual Crime
+Custodial Rape,Sexual Crime
+Other Rape,Sexual Crime
+Kidnapping And Abduction,Kidnapping/Abduction
+Kidnapping And Abduction Of Women And Girls,Kidnapping/Abduction
+Kidnapping And Abduction Of Others,Kidnapping/Abduction
+Dacoity,Property Crime
+Preparation And Assembly For Dacoity,Property Crime
+Robbery,Property Crime
+Burglary,Property Crime
+Theft,Property Crime
+Auto Theft,Property Crime
+Other Theft,Property Crime
+Riots,Violent Crime
+Criminal Breach Of Trust,Trust/Deception Crime
+Cheating,Trust/Deception Crime
+Counterfeiting,Trust/Deception Crime
+Arson,Property Crime
+Hurt/Grievous Hurt,Violent Crime
+Dowry Deaths,Family-Related Crime
+Assault On Women With Intent To Outrage Her Modesty,Sexual Crime
+Insult To Modesty Of Women,Sexual Crime
+Cruelty By Husband Or His Relatives,Family-Related Crime
+Importation Of Girls From Foreign Countries,Other
+Causing Death By Negligence,Negligence

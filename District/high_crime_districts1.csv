@@ -1,0 +1,426 @@
+State,District,Type_of_Crime,Crime,Count
+Nagaland,KOHIMA,Property Crime,Theft,8274
+Nagaland,KOHIMA,Property Crime,Other_Theft,5818
+Nagaland,KOHIMA,Violent Crime,Hurt/Grevious_Hurt,4925
+Nagaland,KOHIMA,Violent Crime,Riots,4183
+Nagaland,KOHIMA,Trust/Deception Crime,Cheating,2488
+Nagaland,KOHIMA,Property Crime,Auto_Theft,2456
+Nagaland,KOHIMA,Negligence,Causing_Death_By_Negligence,2252
+Nagaland,KOHIMA,Property Crime,Burglary,1914
+Nagaland,KOHIMA,Family-Related Crime,Cruelty_By_Husband_Or_His_Relatives,1461
+Nagaland,KOHIMA,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Women_And_Girls,722
+Nagaland,KOHIMA,Sexual Crime,Assault_On_Women_With_Intent_To_Outrage_Her_Modesty,665
+Nagaland,KOHIMA,Trust/Deception Crime,Criminal_Breach_Of_Trust,655
+Nagaland,KOHIMA,Violent Crime,Attempt_To_Murder,568
+Nagaland,KOHIMA,Sexual Crime,Other_Rape,318
+Nagaland,KOHIMA,Family-Related Crime,Dowry_Deaths,195
+Nagaland,KOHIMA,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Others,185
+Nagaland,KOHIMA,Sexual Crime,Insult_To_Modesty_Of_Women,123
+Nagaland,KOHIMA,Violent Crime,Culpable_Homicide_Not_Amounting_To_Murder,101
+Nagaland,KOHIMA,Violent Crime,Murder,97
+Nagaland,KOHIMA,Trust/Deception Crime,Counterfieting,80
+Nagaland,KOHIMA,Property Crime,Preparation_And_Assembly_For_Dacoity,71
+Nagaland,KOHIMA,Sexual Crime,Rape,21
+Nagaland,KOHIMA,Kidnapping/Abduction,Kidnapping_And_Abduction,13
+Nagaland,KOHIMA,Other,Importation_Of_Girls_From_Foreign_Countries,0
+Nagaland,KOHIMA,Sexual Crime,Custodial_Rape,0
+Nagaland,WOKHA,Violent Crime,Hurt/Grevious_Hurt,5898
+Nagaland,WOKHA,Property Crime,Theft,5265
+Nagaland,WOKHA,Property Crime,Other_Theft,3411
+Nagaland,WOKHA,Property Crime,Auto_Theft,1854
+Nagaland,WOKHA,Property Crime,Burglary,1832
+Nagaland,WOKHA,Negligence,Causing_Death_By_Negligence,1489
+Nagaland,WOKHA,Violent Crime,Riots,1467
+Nagaland,WOKHA,Family-Related Crime,Cruelty_By_Husband_Or_His_Relatives,1421
+Nagaland,WOKHA,Trust/Deception Crime,Cheating,1214
+Nagaland,WOKHA,Violent Crime,Attempt_To_Murder,963
+Nagaland,WOKHA,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Women_And_Girls,859
+Nagaland,WOKHA,Sexual Crime,Assault_On_Women_With_Intent_To_Outrage_Her_Modesty,722
+Nagaland,WOKHA,Sexual Crime,Other_Rape,445
+Nagaland,WOKHA,Trust/Deception Crime,Criminal_Breach_Of_Trust,438
+Nagaland,WOKHA,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Others,226
+Nagaland,WOKHA,Family-Related Crime,Dowry_Deaths,223
+Nagaland,WOKHA,Sexual Crime,Insult_To_Modesty_Of_Women,167
+Nagaland,WOKHA,Violent Crime,Culpable_Homicide_Not_Amounting_To_Murder,68
+Nagaland,WOKHA,Trust/Deception Crime,Counterfieting,43
+Nagaland,WOKHA,Property Crime,Preparation_And_Assembly_For_Dacoity,35
+Nagaland,WOKHA,Violent Crime,Murder,19
+Nagaland,WOKHA,Kidnapping/Abduction,Kidnapping_And_Abduction,3
+Nagaland,WOKHA,Sexual Crime,Custodial_Rape,1
+Nagaland,WOKHA,Other,Importation_Of_Girls_From_Foreign_Countries,0
+Nagaland,WOKHA,Sexual Crime,Rape,0
+Nagaland,ZUNHEBOTO,Violent Crime,Hurt/Grevious_Hurt,6762
+Nagaland,ZUNHEBOTO,Property Crime,Theft,4897
+Nagaland,ZUNHEBOTO,Property Crime,Other_Theft,3420
+Nagaland,ZUNHEBOTO,Property Crime,Burglary,1910
+Nagaland,ZUNHEBOTO,Negligence,Causing_Death_By_Negligence,1802
+Nagaland,ZUNHEBOTO,Trust/Deception Crime,Cheating,1584
+Nagaland,ZUNHEBOTO,Family-Related Crime,Cruelty_By_Husband_Or_His_Relatives,1542
+Nagaland,ZUNHEBOTO,Property Crime,Auto_Theft,1477
+Nagaland,ZUNHEBOTO,Violent Crime,Riots,962
+Nagaland,ZUNHEBOTO,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Women_And_Girls,574
+Nagaland,ZUNHEBOTO,Violent Crime,Attempt_To_Murder,364
+Nagaland,ZUNHEBOTO,Sexual Crime,Assault_On_Women_With_Intent_To_Outrage_Her_Modesty,310
+Nagaland,ZUNHEBOTO,Sexual Crime,Other_Rape,304
+Nagaland,ZUNHEBOTO,Trust/Deception Crime,Criminal_Breach_Of_Trust,301
+Nagaland,ZUNHEBOTO,Sexual Crime,Insult_To_Modesty_Of_Women,294
+Nagaland,ZUNHEBOTO,Family-Related Crime,Dowry_Deaths,206
+Nagaland,ZUNHEBOTO,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Others,178
+Nagaland,ZUNHEBOTO,Violent Crime,Culpable_Homicide_Not_Amounting_To_Murder,64
+Nagaland,ZUNHEBOTO,Property Crime,Preparation_And_Assembly_For_Dacoity,54
+Nagaland,ZUNHEBOTO,Trust/Deception Crime,Counterfieting,28
+Nagaland,ZUNHEBOTO,Violent Crime,Murder,17
+Nagaland,ZUNHEBOTO,Sexual Crime,Rape,1
+Nagaland,ZUNHEBOTO,Sexual Crime,Custodial_Rape,0
+Nagaland,ZUNHEBOTO,Other,Importation_Of_Girls_From_Foreign_Countries,0
+Nagaland,ZUNHEBOTO,Kidnapping/Abduction,Kidnapping_And_Abduction,0
+Nagaland,KIPHIRE,Property Crime,Theft,5664
+Nagaland,KIPHIRE,Violent Crime,Hurt/Grevious_Hurt,5531
+Nagaland,KIPHIRE,Property Crime,Other_Theft,3457
+Nagaland,KIPHIRE,Property Crime,Auto_Theft,2207
+Nagaland,KIPHIRE,Family-Related Crime,Cruelty_By_Husband_Or_His_Relatives,1703
+Nagaland,KIPHIRE,Negligence,Causing_Death_By_Negligence,1218
+Nagaland,KIPHIRE,Trust/Deception Crime,Cheating,1193
+Nagaland,KIPHIRE,Violent Crime,Riots,1170
+Nagaland,KIPHIRE,Property Crime,Burglary,1086
+Nagaland,KIPHIRE,Violent Crime,Attempt_To_Murder,1015
+Nagaland,KIPHIRE,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Women_And_Girls,543
+Nagaland,KIPHIRE,Sexual Crime,Insult_To_Modesty_Of_Women,459
+Nagaland,KIPHIRE,Sexual Crime,Assault_On_Women_With_Intent_To_Outrage_Her_Modesty,423
+Nagaland,KIPHIRE,Trust/Deception Crime,Criminal_Breach_Of_Trust,399
+Nagaland,KIPHIRE,Sexual Crime,Other_Rape,357
+Nagaland,KIPHIRE,Family-Related Crime,Dowry_Deaths,186
+Nagaland,KIPHIRE,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Others,183
+Nagaland,KIPHIRE,Violent Crime,Culpable_Homicide_Not_Amounting_To_Murder,103
+Nagaland,KIPHIRE,Property Crime,Preparation_And_Assembly_For_Dacoity,31
+Nagaland,KIPHIRE,Trust/Deception Crime,Counterfieting,26
+Nagaland,KIPHIRE,Other,Importation_Of_Girls_From_Foreign_Countries,0
+Nagaland,KIPHIRE,Sexual Crime,Rape,0
+Nagaland,KIPHIRE,Kidnapping/Abduction,Kidnapping_And_Abduction,0
+Nagaland,KIPHIRE,Violent Crime,Murder,0
+Nagaland,KIPHIRE,Sexual Crime,Custodial_Rape,0
+Nagaland,TUENSANG,Property Crime,Theft,5108
+Nagaland,TUENSANG,Violent Crime,Hurt/Grevious_Hurt,4804
+Nagaland,TUENSANG,Property Crime,Other_Theft,3487
+Nagaland,TUENSANG,Negligence,Causing_Death_By_Negligence,2085
+Nagaland,TUENSANG,Family-Related Crime,Cruelty_By_Husband_Or_His_Relatives,2084
+Nagaland,TUENSANG,Property Crime,Auto_Theft,1621
+Nagaland,TUENSANG,Property Crime,Burglary,1301
+Nagaland,TUENSANG,Trust/Deception Crime,Cheating,1275
+Nagaland,TUENSANG,Violent Crime,Riots,1132
+Nagaland,TUENSANG,Sexual Crime,Assault_On_Women_With_Intent_To_Outrage_Her_Modesty,683
+Nagaland,TUENSANG,Violent Crime,Attempt_To_Murder,602
+Nagaland,TUENSANG,Sexual Crime,Insult_To_Modesty_Of_Women,582
+Nagaland,TUENSANG,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Women_And_Girls,493
+Nagaland,TUENSANG,Trust/Deception Crime,Criminal_Breach_Of_Trust,407
+Nagaland,TUENSANG,Sexual Crime,Other_Rape,340
+Nagaland,TUENSANG,Family-Related Crime,Dowry_Deaths,208
+Nagaland,TUENSANG,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Others,185
+Nagaland,TUENSANG,Violent Crime,Culpable_Homicide_Not_Amounting_To_Murder,89
+Nagaland,TUENSANG,Property Crime,Preparation_And_Assembly_For_Dacoity,51
+Nagaland,TUENSANG,Trust/Deception Crime,Counterfieting,43
+Nagaland,TUENSANG,Violent Crime,Murder,16
+Nagaland,TUENSANG,Kidnapping/Abduction,Kidnapping_And_Abduction,1
+Nagaland,TUENSANG,Other,Importation_Of_Girls_From_Foreign_Countries,0
+Nagaland,TUENSANG,Sexual Crime,Rape,0
+Nagaland,TUENSANG,Sexual Crime,Custodial_Rape,0
+Delhi,Delhi TOTAL,Property Crime,Theft,34123
+Delhi,Delhi TOTAL,Property Crime,Other_Theft,17323
+Delhi,Delhi TOTAL,Property Crime,Auto_Theft,16800
+Delhi,Delhi TOTAL,Trust/Deception Crime,Cheating,4411
+Delhi,Delhi TOTAL,Property Crime,Burglary,4310
+Delhi,Delhi TOTAL,Violent Crime,Hurt/Grevious_Hurt,3669
+Delhi,Delhi TOTAL,Kidnapping/Abduction,Kidnapping_And_Abduction,2765
+Delhi,Delhi TOTAL,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Women_And_Girls,1959
+Delhi,Delhi TOTAL,Family-Related Crime,Cruelty_By_Husband_Or_His_Relatives,1863
+Delhi,Delhi TOTAL,Sexual Crime,Assault_On_Women_With_Intent_To_Outrage_Her_Modesty,1164
+Delhi,Delhi TOTAL,Property Crime,Robbery,1043
+Delhi,Delhi TOTAL,Sexual Crime,Other_Rape,1026
+Delhi,Delhi TOTAL,Sexual Crime,Rape,1026
+Delhi,Delhi TOTAL,Violent Crime,Murder,1007
+Delhi,Delhi TOTAL,Violent Crime,Attempt_To_Murder,950
+Delhi,Delhi TOTAL,Trust/Deception Crime,Criminal_Breach_Of_Trust,886
+Delhi,Delhi TOTAL,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Others,806
+Delhi,Delhi TOTAL,Negligence,Causing_Death_By_Negligence,783
+Delhi,Delhi TOTAL,Family-Related Crime,Dowry_Deaths,272
+Delhi,Delhi TOTAL,Sexual Crime,Insult_To_Modesty_Of_Women,272
+Delhi,Delhi TOTAL,Violent Crime,Riots,226
+Delhi,Delhi TOTAL,Violent Crime,Culpable_Homicide_Not_Amounting_To_Murder,143
+Delhi,Delhi TOTAL,Trust/Deception Crime,Counterfieting,88
+Delhi,Delhi TOTAL,Sexual Crime,Custodial_Rape,0
+Delhi,Delhi TOTAL,Other,Importation_Of_Girls_From_Foreign_Countries,0
+Delhi,SOUTH,Property Crime,Theft,7941
+Delhi,SOUTH,Violent Crime,Hurt/Grevious_Hurt,6531
+Delhi,SOUTH,Property Crime,Other_Theft,4447
+Delhi,SOUTH,Property Crime,Auto_Theft,3494
+Delhi,SOUTH,Property Crime,Burglary,2915
+Delhi,SOUTH,Violent Crime,Riots,1839
+Delhi,SOUTH,Negligence,Causing_Death_By_Negligence,1741
+Delhi,SOUTH,Sexual Crime,Assault_On_Women_With_Intent_To_Outrage_Her_Modesty,1605
+Delhi,SOUTH,Family-Related Crime,Cruelty_By_Husband_Or_His_Relatives,1561
+Delhi,SOUTH,Trust/Deception Crime,Cheating,1387
+Delhi,SOUTH,Sexual Crime,Other_Rape,706
+Delhi,SOUTH,Violent Crime,Attempt_To_Murder,619
+Delhi,SOUTH,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Women_And_Girls,424
+Delhi,SOUTH,Trust/Deception Crime,Criminal_Breach_Of_Trust,356
+Delhi,SOUTH,Kidnapping/Abduction,Kidnapping_And_Abduction,256
+Delhi,SOUTH,Property Crime,Preparation_And_Assembly_For_Dacoity,162
+Delhi,SOUTH,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Others,153
+Delhi,SOUTH,Sexual Crime,Insult_To_Modesty_Of_Women,127
+Delhi,SOUTH,Family-Related Crime,Dowry_Deaths,88
+Delhi,SOUTH,Sexual Crime,Rape,83
+Delhi,SOUTH,Violent Crime,Murder,68
+Delhi,SOUTH,Violent Crime,Culpable_Homicide_Not_Amounting_To_Murder,47
+Delhi,SOUTH,Trust/Deception Crime,Counterfieting,41
+Delhi,SOUTH,Sexual Crime,Custodial_Rape,0
+Delhi,SOUTH,Other,Importation_Of_Girls_From_Foreign_Countries,0
+Delhi,NORTH,Property Crime,Theft,6821
+Delhi,NORTH,Violent Crime,Hurt/Grevious_Hurt,6466
+Delhi,NORTH,Property Crime,Other_Theft,3735
+Delhi,NORTH,Property Crime,Auto_Theft,3086
+Delhi,NORTH,Property Crime,Burglary,2176
+Delhi,NORTH,Negligence,Causing_Death_By_Negligence,1658
+Delhi,NORTH,Violent Crime,Riots,1310
+Delhi,NORTH,Family-Related Crime,Cruelty_By_Husband_Or_His_Relatives,1213
+Delhi,NORTH,Trust/Deception Crime,Cheating,977
+Delhi,NORTH,Sexual Crime,Assault_On_Women_With_Intent_To_Outrage_Her_Modesty,799
+Delhi,NORTH,Violent Crime,Attempt_To_Murder,611
+Delhi,NORTH,Sexual Crime,Other_Rape,455
+Delhi,NORTH,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Women_And_Girls,305
+Delhi,NORTH,Trust/Deception Crime,Criminal_Breach_Of_Trust,236
+Delhi,NORTH,Family-Related Crime,Dowry_Deaths,137
+Delhi,NORTH,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Others,117
+Delhi,NORTH,Sexual Crime,Insult_To_Modesty_Of_Women,98
+Delhi,NORTH,Kidnapping/Abduction,Kidnapping_And_Abduction,84
+Delhi,NORTH,Property Crime,Preparation_And_Assembly_For_Dacoity,54
+Delhi,NORTH,Violent Crime,Culpable_Homicide_Not_Amounting_To_Murder,46
+Delhi,NORTH,Violent Crime,Murder,40
+Delhi,NORTH,Trust/Deception Crime,Counterfieting,33
+Delhi,NORTH,Sexual Crime,Rape,27
+Delhi,NORTH,Other,Importation_Of_Girls_From_Foreign_Countries,0
+Delhi,NORTH,Sexual Crime,Custodial_Rape,0
+Delhi,NORTH-EAST,Violent Crime,Hurt/Grevious_Hurt,6713
+Delhi,NORTH-EAST,Property Crime,Theft,5249
+Delhi,NORTH-EAST,Property Crime,Other_Theft,2839
+Delhi,NORTH-EAST,Property Crime,Burglary,2477
+Delhi,NORTH-EAST,Property Crime,Auto_Theft,2410
+Delhi,NORTH-EAST,Violent Crime,Riots,1428
+Delhi,NORTH-EAST,Trust/Deception Crime,Cheating,1180
+Delhi,NORTH-EAST,Sexual Crime,Assault_On_Women_With_Intent_To_Outrage_Her_Modesty,1107
+Delhi,NORTH-EAST,Family-Related Crime,Cruelty_By_Husband_Or_His_Relatives,1091
+Delhi,NORTH-EAST,Negligence,Causing_Death_By_Negligence,862
+Delhi,NORTH-EAST,Sexual Crime,Other_Rape,505
+Delhi,NORTH-EAST,Violent Crime,Attempt_To_Murder,427
+Delhi,NORTH-EAST,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Women_And_Girls,224
+Delhi,NORTH-EAST,Sexual Crime,Insult_To_Modesty_Of_Women,176
+Delhi,NORTH-EAST,Family-Related Crime,Dowry_Deaths,131
+Delhi,NORTH-EAST,Trust/Deception Crime,Criminal_Breach_Of_Trust,111
+Delhi,NORTH-EAST,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Others,71
+Delhi,NORTH-EAST,Property Crime,Preparation_And_Assembly_For_Dacoity,55
+Delhi,NORTH-EAST,Violent Crime,Culpable_Homicide_Not_Amounting_To_Murder,36
+Delhi,NORTH-EAST,Trust/Deception Crime,Counterfieting,31
+Delhi,NORTH-EAST,Sexual Crime,Custodial_Rape,0
+Delhi,NORTH-EAST,Sexual Crime,Rape,0
+Delhi,NORTH-EAST,Kidnapping/Abduction,Kidnapping_And_Abduction,0
+Delhi,NORTH-EAST,Violent Crime,Murder,0
+Delhi,NORTH-EAST,Other,Importation_Of_Girls_From_Foreign_Countries,0
+Delhi,SOUTH-WEST,Violent Crime,Hurt/Grevious_Hurt,6886
+Delhi,SOUTH-WEST,Property Crime,Theft,4667
+Delhi,SOUTH-WEST,Property Crime,Other_Theft,2765
+Delhi,SOUTH-WEST,Property Crime,Burglary,2002
+Delhi,SOUTH-WEST,Property Crime,Auto_Theft,1902
+Delhi,SOUTH-WEST,Violent Crime,Riots,1382
+Delhi,SOUTH-WEST,Family-Related Crime,Cruelty_By_Husband_Or_His_Relatives,1217
+Delhi,SOUTH-WEST,Negligence,Causing_Death_By_Negligence,1202
+Delhi,SOUTH-WEST,Sexual Crime,Assault_On_Women_With_Intent_To_Outrage_Her_Modesty,938
+Delhi,SOUTH-WEST,Trust/Deception Crime,Cheating,720
+Delhi,SOUTH-WEST,Violent Crime,Attempt_To_Murder,545
+Delhi,SOUTH-WEST,Sexual Crime,Other_Rape,503
+Delhi,SOUTH-WEST,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Women_And_Girls,314
+Delhi,SOUTH-WEST,Trust/Deception Crime,Criminal_Breach_Of_Trust,176
+Delhi,SOUTH-WEST,Kidnapping/Abduction,Kidnapping_And_Abduction,161
+Delhi,SOUTH-WEST,Sexual Crime,Insult_To_Modesty_Of_Women,128
+Delhi,SOUTH-WEST,Family-Related Crime,Dowry_Deaths,110
+Delhi,SOUTH-WEST,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Others,100
+Delhi,SOUTH-WEST,Sexual Crime,Rape,79
+Delhi,SOUTH-WEST,Violent Crime,Murder,52
+Delhi,SOUTH-WEST,Property Crime,Robbery,48
+Delhi,SOUTH-WEST,Violent Crime,Culpable_Homicide_Not_Amounting_To_Murder,37
+Delhi,SOUTH-WEST,Trust/Deception Crime,Counterfieting,11
+Delhi,SOUTH-WEST,Sexual Crime,Custodial_Rape,0
+Delhi,SOUTH-WEST,Other,Importation_Of_Girls_From_Foreign_Countries,0
+Karnataka,BANGALORE COMMR.,Property Crime,Theft,9514
+Karnataka,BANGALORE COMMR.,Violent Crime,Hurt/Grevious_Hurt,5584
+Karnataka,BANGALORE COMMR.,Property Crime,Other_Theft,5170
+Karnataka,BANGALORE COMMR.,Property Crime,Auto_Theft,4344
+Karnataka,BANGALORE COMMR.,Trust/Deception Crime,Cheating,2542
+Karnataka,BANGALORE COMMR.,Property Crime,Burglary,2479
+Karnataka,BANGALORE COMMR.,Negligence,Causing_Death_By_Negligence,1422
+Karnataka,BANGALORE COMMR.,Violent Crime,Riots,1207
+Karnataka,BANGALORE COMMR.,Family-Related Crime,Cruelty_By_Husband_Or_His_Relatives,956
+Karnataka,BANGALORE COMMR.,Violent Crime,Attempt_To_Murder,763
+Karnataka,BANGALORE COMMR.,Sexual Crime,Assault_On_Women_With_Intent_To_Outrage_Her_Modesty,668
+Karnataka,BANGALORE COMMR.,Property Crime,Robbery,647
+Karnataka,BANGALORE COMMR.,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Women_And_Girls,522
+Karnataka,BANGALORE COMMR.,Trust/Deception Crime,Criminal_Breach_Of_Trust,485
+Karnataka,BANGALORE COMMR.,Sexual Crime,Other_Rape,272
+Karnataka,BANGALORE COMMR.,Family-Related Crime,Dowry_Deaths,223
+Karnataka,BANGALORE COMMR.,Violent Crime,Murder,219
+Karnataka,BANGALORE COMMR.,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Others,158
+Karnataka,BANGALORE COMMR.,Kidnapping/Abduction,Kidnapping_And_Abduction,99
+Karnataka,BANGALORE COMMR.,Violent Crime,Culpable_Homicide_Not_Amounting_To_Murder,85
+Karnataka,BANGALORE COMMR.,Trust/Deception Crime,Counterfieting,81
+Karnataka,BANGALORE COMMR.,Sexual Crime,Rape,34
+Karnataka,BANGALORE COMMR.,Sexual Crime,Insult_To_Modesty_Of_Women,17
+Karnataka,BANGALORE COMMR.,Sexual Crime,Custodial_Rape,0
+Karnataka,BANGALORE COMMR.,Other,Importation_Of_Girls_From_Foreign_Countries,0
+Karnataka,BELGAUM,Property Crime,Theft,7349
+Karnataka,BELGAUM,Violent Crime,Hurt/Grevious_Hurt,6223
+Karnataka,BELGAUM,Property Crime,Other_Theft,3982
+Karnataka,BELGAUM,Property Crime,Auto_Theft,3367
+Karnataka,BELGAUM,Trust/Deception Crime,Cheating,2095
+Karnataka,BELGAUM,Family-Related Crime,Cruelty_By_Husband_Or_His_Relatives,2060
+Karnataka,BELGAUM,Negligence,Causing_Death_By_Negligence,2021
+Karnataka,BELGAUM,Property Crime,Burglary,1930
+Karnataka,BELGAUM,Violent Crime,Riots,1680
+Karnataka,BELGAUM,Sexual Crime,Assault_On_Women_With_Intent_To_Outrage_Her_Modesty,1184
+Karnataka,BELGAUM,Violent Crime,Attempt_To_Murder,945
+Karnataka,BELGAUM,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Women_And_Girls,860
+Karnataka,BELGAUM,Trust/Deception Crime,Criminal_Breach_Of_Trust,490
+Karnataka,BELGAUM,Sexual Crime,Other_Rape,456
+Karnataka,BELGAUM,Family-Related Crime,Dowry_Deaths,266
+Karnataka,BELGAUM,Violent Crime,Murder,211
+Karnataka,BELGAUM,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Others,183
+Karnataka,BELGAUM,Property Crime,Robbery,124
+Karnataka,BELGAUM,Violent Crime,Culpable_Homicide_Not_Amounting_To_Murder,110
+Karnataka,BELGAUM,Kidnapping/Abduction,Kidnapping_And_Abduction,95
+Karnataka,BELGAUM,Sexual Crime,Insult_To_Modesty_Of_Women,79
+Karnataka,BELGAUM,Sexual Crime,Rape,69
+Karnataka,BELGAUM,Trust/Deception Crime,Counterfieting,35
+Karnataka,BELGAUM,Sexual Crime,Custodial_Rape,0
+Karnataka,BELGAUM,Other,Importation_Of_Girls_From_Foreign_Countries,0
+Karnataka,BIJAPUR,Property Crime,Theft,6868
+Karnataka,BIJAPUR,Violent Crime,Hurt/Grevious_Hurt,5440
+Karnataka,BIJAPUR,Property Crime,Auto_Theft,3499
+Karnataka,BIJAPUR,Property Crime,Other_Theft,3369
+Karnataka,BIJAPUR,Property Crime,Burglary,2321
+Karnataka,BIJAPUR,Negligence,Causing_Death_By_Negligence,2294
+Karnataka,BIJAPUR,Trust/Deception Crime,Cheating,2255
+Karnataka,BIJAPUR,Family-Related Crime,Cruelty_By_Husband_Or_His_Relatives,1610
+Karnataka,BIJAPUR,Violent Crime,Riots,1592
+Karnataka,BIJAPUR,Violent Crime,Attempt_To_Murder,1192
+Karnataka,BIJAPUR,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Women_And_Girls,1036
+Karnataka,BIJAPUR,Sexual Crime,Assault_On_Women_With_Intent_To_Outrage_Her_Modesty,1015
+Karnataka,BIJAPUR,Sexual Crime,Other_Rape,510
+Karnataka,BIJAPUR,Trust/Deception Crime,Criminal_Breach_Of_Trust,481
+Karnataka,BIJAPUR,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Others,273
+Karnataka,BIJAPUR,Family-Related Crime,Dowry_Deaths,268
+Karnataka,BIJAPUR,Sexual Crime,Insult_To_Modesty_Of_Women,153
+Karnataka,BIJAPUR,Violent Crime,Culpable_Homicide_Not_Amounting_To_Murder,130
+Karnataka,BIJAPUR,Violent Crime,Murder,49
+Karnataka,BIJAPUR,Trust/Deception Crime,Counterfieting,40
+Karnataka,BIJAPUR,Property Crime,Preparation_And_Assembly_For_Dacoity,31
+Karnataka,BIJAPUR,Kidnapping/Abduction,Kidnapping_And_Abduction,22
+Karnataka,BIJAPUR,Sexual Crime,Rape,19
+Karnataka,BIJAPUR,Sexual Crime,Custodial_Rape,0
+Karnataka,BIJAPUR,Other,Importation_Of_Girls_From_Foreign_Countries,0
+Karnataka,BIDAR,Violent Crime,Hurt/Grevious_Hurt,8376
+Karnataka,BIDAR,Property Crime,Theft,5610
+Karnataka,BIDAR,Property Crime,Other_Theft,3139
+Karnataka,BIDAR,Property Crime,Auto_Theft,2471
+Karnataka,BIDAR,Negligence,Causing_Death_By_Negligence,2299
+Karnataka,BIDAR,Property Crime,Burglary,1847
+Karnataka,BIDAR,Family-Related Crime,Cruelty_By_Husband_Or_His_Relatives,1747
+Karnataka,BIDAR,Violent Crime,Riots,1378
+Karnataka,BIDAR,Trust/Deception Crime,Cheating,1326
+Karnataka,BIDAR,Sexual Crime,Assault_On_Women_With_Intent_To_Outrage_Her_Modesty,1205
+Karnataka,BIDAR,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Women_And_Girls,807
+Karnataka,BIDAR,Violent Crime,Attempt_To_Murder,782
+Karnataka,BIDAR,Sexual Crime,Other_Rape,476
+Karnataka,BIDAR,Trust/Deception Crime,Criminal_Breach_Of_Trust,422
+Karnataka,BIDAR,Family-Related Crime,Dowry_Deaths,240
+Karnataka,BIDAR,Sexual Crime,Insult_To_Modesty_Of_Women,153
+Karnataka,BIDAR,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Others,128
+Karnataka,BIDAR,Violent Crime,Culpable_Homicide_Not_Amounting_To_Murder,110
+Karnataka,BIDAR,Violent Crime,Murder,66
+Karnataka,BIDAR,Trust/Deception Crime,Counterfieting,61
+Karnataka,BIDAR,Property Crime,Robbery,44
+Karnataka,BIDAR,Kidnapping/Abduction,Kidnapping_And_Abduction,43
+Karnataka,BIDAR,Sexual Crime,Rape,16
+Karnataka,BIDAR,Other,Importation_Of_Girls_From_Foreign_Countries,2
+Karnataka,BIDAR,Sexual Crime,Custodial_Rape,0
+Karnataka,K.G.F.,Property Crime,Theft,8099
+Karnataka,K.G.F.,Property Crime,Auto_Theft,4499
+Karnataka,K.G.F.,Property Crime,Other_Theft,3600
+Karnataka,K.G.F.,Violent Crime,Hurt/Grevious_Hurt,3431
+Karnataka,K.G.F.,Negligence,Causing_Death_By_Negligence,2126
+Karnataka,K.G.F.,Trust/Deception Crime,Cheating,1769
+Karnataka,K.G.F.,Property Crime,Burglary,1640
+Karnataka,K.G.F.,Family-Related Crime,Cruelty_By_Husband_Or_His_Relatives,1427
+Karnataka,K.G.F.,Violent Crime,Riots,944
+Karnataka,K.G.F.,Violent Crime,Attempt_To_Murder,870
+Karnataka,K.G.F.,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Women_And_Girls,848
+Karnataka,K.G.F.,Sexual Crime,Assault_On_Women_With_Intent_To_Outrage_Her_Modesty,647
+Karnataka,K.G.F.,Trust/Deception Crime,Criminal_Breach_Of_Trust,511
+Karnataka,K.G.F.,Sexual Crime,Other_Rape,340
+Karnataka,K.G.F.,Sexual Crime,Insult_To_Modesty_Of_Women,316
+Karnataka,K.G.F.,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Others,294
+Karnataka,K.G.F.,Family-Related Crime,Dowry_Deaths,293
+Karnataka,K.G.F.,Violent Crime,Culpable_Homicide_Not_Amounting_To_Murder,135
+Karnataka,K.G.F.,Trust/Deception Crime,Counterfieting,41
+Karnataka,K.G.F.,Property Crime,Preparation_And_Assembly_For_Dacoity,26
+Karnataka,K.G.F.,Violent Crime,Murder,17
+Karnataka,K.G.F.,Kidnapping/Abduction,Kidnapping_And_Abduction,16
+Karnataka,K.G.F.,Sexual Crime,Rape,7
+Karnataka,K.G.F.,Sexual Crime,Custodial_Rape,0
+Karnataka,K.G.F.,Other,Importation_Of_Girls_From_Foreign_Countries,0
+Goa,SOUTH GOA,Violent Crime,Hurt/Grevious_Hurt,5619
+Goa,SOUTH GOA,Property Crime,Theft,4742
+Goa,SOUTH GOA,Property Crime,Other_Theft,3159
+Goa,SOUTH GOA,Trust/Deception Crime,Cheating,1943
+Goa,SOUTH GOA,Property Crime,Burglary,1895
+Goa,SOUTH GOA,Property Crime,Auto_Theft,1583
+Goa,SOUTH GOA,Family-Related Crime,Cruelty_By_Husband_Or_His_Relatives,1382
+Goa,SOUTH GOA,Violent Crime,Riots,1080
+Goa,SOUTH GOA,Negligence,Causing_Death_By_Negligence,992
+Goa,SOUTH GOA,Sexual Crime,Assault_On_Women_With_Intent_To_Outrage_Her_Modesty,651
+Goa,SOUTH GOA,Violent Crime,Attempt_To_Murder,353
+Goa,SOUTH GOA,Sexual Crime,Other_Rape,339
+Goa,SOUTH GOA,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Women_And_Girls,259
+Goa,SOUTH GOA,Trust/Deception Crime,Criminal_Breach_Of_Trust,235
+Goa,SOUTH GOA,Family-Related Crime,Dowry_Deaths,121
+Goa,SOUTH GOA,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Others,52
+Goa,SOUTH GOA,Violent Crime,Culpable_Homicide_Not_Amounting_To_Murder,35
+Goa,SOUTH GOA,Sexual Crime,Insult_To_Modesty_Of_Women,30
+Goa,SOUTH GOA,Property Crime,Preparation_And_Assembly_For_Dacoity,24
+Goa,SOUTH GOA,Trust/Deception Crime,Counterfieting,13
+Goa,SOUTH GOA,Other,Importation_Of_Girls_From_Foreign_Countries,0
+Goa,SOUTH GOA,Sexual Crime,Rape,0
+Goa,SOUTH GOA,Sexual Crime,Custodial_Rape,0
+Goa,SOUTH GOA,Kidnapping/Abduction,Kidnapping_And_Abduction,0
+Goa,SOUTH GOA,Violent Crime,Murder,0
+Goa,NORTH GOA,Violent Crime,Hurt/Grevious_Hurt,5279
+Goa,NORTH GOA,Property Crime,Theft,4060
+Goa,NORTH GOA,Property Crime,Other_Theft,2111
+Goa,NORTH GOA,Property Crime,Auto_Theft,1949
+Goa,NORTH GOA,Property Crime,Burglary,1718
+Goa,NORTH GOA,Trust/Deception Crime,Cheating,1576
+Goa,NORTH GOA,Negligence,Causing_Death_By_Negligence,1295
+Goa,NORTH GOA,Family-Related Crime,Cruelty_By_Husband_Or_His_Relatives,1126
+Goa,NORTH GOA,Violent Crime,Riots,1123
+Goa,NORTH GOA,Sexual Crime,Assault_On_Women_With_Intent_To_Outrage_Her_Modesty,759
+Goa,NORTH GOA,Violent Crime,Attempt_To_Murder,454
+Goa,NORTH GOA,Sexual Crime,Other_Rape,394
+Goa,NORTH GOA,Trust/Deception Crime,Criminal_Breach_Of_Trust,316
+Goa,NORTH GOA,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Women_And_Girls,303
+Goa,NORTH GOA,Family-Related Crime,Dowry_Deaths,132
+Goa,NORTH GOA,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Others,102
+Goa,NORTH GOA,Trust/Deception Crime,Counterfieting,64
+Goa,NORTH GOA,Sexual Crime,Insult_To_Modesty_Of_Women,51
+Goa,NORTH GOA,Property Crime,Preparation_And_Assembly_For_Dacoity,42
+Goa,NORTH GOA,Violent Crime,Culpable_Homicide_Not_Amounting_To_Murder,25
+Goa,NORTH GOA,Sexual Crime,Custodial_Rape,0
+Goa,NORTH GOA,Other,Importation_Of_Girls_From_Foreign_Countries,0
+Goa,NORTH GOA,Sexual Crime,Rape,0
+Goa,NORTH GOA,Kidnapping/Abduction,Kidnapping_And_Abduction,0
+Goa,NORTH GOA,Violent Crime,Murder,0

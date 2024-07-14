@@ -1,0 +1,501 @@
+State,District,Type_of_Crime,Crime,Count
+Bihar,SAMASTIPUR,Property Crime,Theft,15032
+Bihar,SAMASTIPUR,Property Crime,Other_Theft,10551
+Bihar,SAMASTIPUR,Violent Crime,Hurt/Grevious_Hurt,8799
+Bihar,SAMASTIPUR,Property Crime,Burglary,5089
+Bihar,SAMASTIPUR,Property Crime,Auto_Theft,4481
+Bihar,SAMASTIPUR,Trust/Deception Crime,Cheating,2472
+Bihar,SAMASTIPUR,Negligence,Causing_Death_By_Negligence,1822
+Bihar,SAMASTIPUR,Violent Crime,Riots,1249
+Bihar,SAMASTIPUR,Sexual Crime,Assault_On_Women_With_Intent_To_Outrage_Her_Modesty,1179
+Bihar,SAMASTIPUR,Family-Related Crime,Cruelty_By_Husband_Or_His_Relatives,1111
+Bihar,SAMASTIPUR,Trust/Deception Crime,Criminal_Breach_Of_Trust,644
+Bihar,SAMASTIPUR,Violent Crime,Attempt_To_Murder,566
+Bihar,SAMASTIPUR,Sexual Crime,Other_Rape,522
+Bihar,SAMASTIPUR,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Women_And_Girls,352
+Bihar,SAMASTIPUR,Sexual Crime,Insult_To_Modesty_Of_Women,171
+Bihar,SAMASTIPUR,Trust/Deception Crime,Counterfieting,159
+Bihar,SAMASTIPUR,Family-Related Crime,Dowry_Deaths,126
+Bihar,SAMASTIPUR,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Others,119
+Bihar,SAMASTIPUR,Property Crime,Preparation_And_Assembly_For_Dacoity,97
+Bihar,SAMASTIPUR,Violent Crime,Culpable_Homicide_Not_Amounting_To_Murder,49
+Bihar,SAMASTIPUR,Other,Importation_Of_Girls_From_Foreign_Countries,1
+Bihar,SAMASTIPUR,Sexual Crime,Custodial_Rape,0
+Bihar,SAMASTIPUR,Sexual Crime,Rape,0
+Bihar,SAMASTIPUR,Kidnapping/Abduction,Kidnapping_And_Abduction,0
+Bihar,SAMASTIPUR,Violent Crime,Murder,0
+Bihar,BUXAR,Property Crime,Theft,14429
+Bihar,BUXAR,Property Crime,Other_Theft,10214
+Bihar,BUXAR,Violent Crime,Hurt/Grevious_Hurt,8794
+Bihar,BUXAR,Property Crime,Auto_Theft,4215
+Bihar,BUXAR,Property Crime,Burglary,4115
+Bihar,BUXAR,Trust/Deception Crime,Cheating,2369
+Bihar,BUXAR,Negligence,Causing_Death_By_Negligence,1722
+Bihar,BUXAR,Violent Crime,Riots,1124
+Bihar,BUXAR,Sexual Crime,Assault_On_Women_With_Intent_To_Outrage_Her_Modesty,1082
+Bihar,BUXAR,Family-Related Crime,Cruelty_By_Husband_Or_His_Relatives,958
+Bihar,BUXAR,Trust/Deception Crime,Criminal_Breach_Of_Trust,549
+Bihar,BUXAR,Violent Crime,Attempt_To_Murder,476
+Bihar,BUXAR,Sexual Crime,Other_Rape,390
+Bihar,BUXAR,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Women_And_Girls,314
+Bihar,BUXAR,Sexual Crime,Insult_To_Modesty_Of_Women,178
+Bihar,BUXAR,Family-Related Crime,Dowry_Deaths,141
+Bihar,BUXAR,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Others,135
+Bihar,BUXAR,Trust/Deception Crime,Counterfieting,120
+Bihar,BUXAR,Property Crime,Preparation_And_Assembly_For_Dacoity,68
+Bihar,BUXAR,Violent Crime,Culpable_Homicide_Not_Amounting_To_Murder,19
+Bihar,BUXAR,Sexual Crime,Custodial_Rape,0
+Bihar,BUXAR,Other,Importation_Of_Girls_From_Foreign_Countries,0
+Bihar,BUXAR,Sexual Crime,Rape,0
+Bihar,BUXAR,Kidnapping/Abduction,Kidnapping_And_Abduction,0
+Bihar,BUXAR,Violent Crime,Murder,0
+Bihar,PURNEA,Property Crime,Theft,12142
+Bihar,PURNEA,Violent Crime,Hurt/Grevious_Hurt,9275
+Bihar,PURNEA,Property Crime,Other_Theft,7761
+Bihar,PURNEA,Property Crime,Burglary,4746
+Bihar,PURNEA,Property Crime,Auto_Theft,4381
+Bihar,PURNEA,Trust/Deception Crime,Cheating,2769
+Bihar,PURNEA,Negligence,Causing_Death_By_Negligence,1793
+Bihar,PURNEA,Violent Crime,Riots,1458
+Bihar,PURNEA,Family-Related Crime,Cruelty_By_Husband_Or_His_Relatives,1297
+Bihar,PURNEA,Sexual Crime,Assault_On_Women_With_Intent_To_Outrage_Her_Modesty,1253
+Bihar,PURNEA,Violent Crime,Attempt_To_Murder,877
+Bihar,PURNEA,Sexual Crime,Other_Rape,535
+Bihar,PURNEA,Trust/Deception Crime,Criminal_Breach_Of_Trust,394
+Bihar,PURNEA,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Women_And_Girls,314
+Bihar,PURNEA,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Others,219
+Bihar,PURNEA,Sexual Crime,Insult_To_Modesty_Of_Women,177
+Bihar,PURNEA,Family-Related Crime,Dowry_Deaths,161
+Bihar,PURNEA,Trust/Deception Crime,Counterfieting,142
+Bihar,PURNEA,Property Crime,Preparation_And_Assembly_For_Dacoity,104
+Bihar,PURNEA,Violent Crime,Murder,87
+Bihar,PURNEA,Kidnapping/Abduction,Kidnapping_And_Abduction,69
+Bihar,PURNEA,Sexual Crime,Rape,50
+Bihar,PURNEA,Violent Crime,Culpable_Homicide_Not_Amounting_To_Murder,36
+Bihar,PURNEA,Sexual Crime,Custodial_Rape,0
+Bihar,PURNEA,Other,Importation_Of_Girls_From_Foreign_Countries,0
+Bihar,BETTIAH,Property Crime,Theft,11389
+Bihar,BETTIAH,Property Crime,Other_Theft,7477
+Bihar,BETTIAH,Violent Crime,Hurt/Grevious_Hurt,6458
+Bihar,BETTIAH,Property Crime,Auto_Theft,3912
+Bihar,BETTIAH,Property Crime,Burglary,3200
+Bihar,BETTIAH,Trust/Deception Crime,Cheating,2406
+Bihar,BETTIAH,Violent Crime,Riots,1287
+Bihar,BETTIAH,Sexual Crime,Assault_On_Women_With_Intent_To_Outrage_Her_Modesty,1090
+Bihar,BETTIAH,Negligence,Causing_Death_By_Negligence,981
+Bihar,BETTIAH,Family-Related Crime,Cruelty_By_Husband_Or_His_Relatives,930
+Bihar,BETTIAH,Violent Crime,Attempt_To_Murder,849
+Bihar,BETTIAH,Trust/Deception Crime,Criminal_Breach_Of_Trust,384
+Bihar,BETTIAH,Sexual Crime,Other_Rape,279
+Bihar,BETTIAH,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Women_And_Girls,264
+Bihar,BETTIAH,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Others,212
+Bihar,BETTIAH,Sexual Crime,Insult_To_Modesty_Of_Women,180
+Bihar,BETTIAH,Family-Related Crime,Dowry_Deaths,132
+Bihar,BETTIAH,Property Crime,Preparation_And_Assembly_For_Dacoity,104
+Bihar,BETTIAH,Trust/Deception Crime,Counterfieting,101
+Bihar,BETTIAH,Violent Crime,Culpable_Homicide_Not_Amounting_To_Murder,9
+Bihar,BETTIAH,Sexual Crime,Custodial_Rape,0
+Bihar,BETTIAH,Other,Importation_Of_Girls_From_Foreign_Countries,0
+Bihar,BETTIAH,Sexual Crime,Rape,0
+Bihar,BETTIAH,Kidnapping/Abduction,Kidnapping_And_Abduction,0
+Bihar,BETTIAH,Violent Crime,Murder,0
+Bihar,GAYA,Property Crime,Theft,8333
+Bihar,GAYA,Violent Crime,Hurt/Grevious_Hurt,6634
+Bihar,GAYA,Property Crime,Other_Theft,6178
+Bihar,GAYA,Property Crime,Burglary,3225
+Bihar,GAYA,Violent Crime,Riots,2229
+Bihar,GAYA,Property Crime,Auto_Theft,2155
+Bihar,GAYA,Negligence,Causing_Death_By_Negligence,1565
+Bihar,GAYA,Family-Related Crime,Cruelty_By_Husband_Or_His_Relatives,1334
+Bihar,GAYA,Trust/Deception Crime,Cheating,1227
+Bihar,GAYA,Sexual Crime,Assault_On_Women_With_Intent_To_Outrage_Her_Modesty,1065
+Bihar,GAYA,Violent Crime,Attempt_To_Murder,1007
+Bihar,GAYA,Sexual Crime,Other_Rape,482
+Bihar,GAYA,Trust/Deception Crime,Criminal_Breach_Of_Trust,465
+Bihar,GAYA,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Women_And_Girls,439
+Bihar,GAYA,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Others,308
+Bihar,GAYA,Family-Related Crime,Dowry_Deaths,240
+Bihar,GAYA,Violent Crime,Murder,208
+Bihar,GAYA,Kidnapping/Abduction,Kidnapping_And_Abduction,208
+Bihar,GAYA,Sexual Crime,Insult_To_Modesty_Of_Women,173
+Bihar,GAYA,Property Crime,Preparation_And_Assembly_For_Dacoity,119
+Bihar,GAYA,Violent Crime,Culpable_Homicide_Not_Amounting_To_Murder,68
+Bihar,GAYA,Sexual Crime,Rape,45
+Bihar,GAYA,Other,Importation_Of_Girls_From_Foreign_Countries,39
+Bihar,GAYA,Trust/Deception Crime,Counterfieting,33
+Bihar,GAYA,Sexual Crime,Custodial_Rape,0
+Jammu & Kashmir,KATHUA,Property Crime,Theft,14837
+Jammu & Kashmir,KATHUA,Property Crime,Other_Theft,10200
+Jammu & Kashmir,KATHUA,Violent Crime,Hurt/Grevious_Hurt,7939
+Jammu & Kashmir,KATHUA,Property Crime,Auto_Theft,4637
+Jammu & Kashmir,KATHUA,Property Crime,Burglary,4419
+Jammu & Kashmir,KATHUA,Negligence,Causing_Death_By_Negligence,3694
+Jammu & Kashmir,KATHUA,Trust/Deception Crime,Cheating,3099
+Jammu & Kashmir,KATHUA,Violent Crime,Riots,1091
+Jammu & Kashmir,KATHUA,Family-Related Crime,Cruelty_By_Husband_Or_His_Relatives,998
+Jammu & Kashmir,KATHUA,Sexual Crime,Assault_On_Women_With_Intent_To_Outrage_Her_Modesty,743
+Jammu & Kashmir,KATHUA,Violent Crime,Attempt_To_Murder,640
+Jammu & Kashmir,KATHUA,Trust/Deception Crime,Criminal_Breach_Of_Trust,613
+Jammu & Kashmir,KATHUA,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Women_And_Girls,544
+Jammu & Kashmir,KATHUA,Sexual Crime,Other_Rape,405
+Jammu & Kashmir,KATHUA,Family-Related Crime,Dowry_Deaths,160
+Jammu & Kashmir,KATHUA,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Others,159
+Jammu & Kashmir,KATHUA,Trust/Deception Crime,Counterfieting,124
+Jammu & Kashmir,KATHUA,Sexual Crime,Insult_To_Modesty_Of_Women,89
+Jammu & Kashmir,KATHUA,Violent Crime,Culpable_Homicide_Not_Amounting_To_Murder,89
+Jammu & Kashmir,KATHUA,Property Crime,Preparation_And_Assembly_For_Dacoity,82
+Jammu & Kashmir,KATHUA,Sexual Crime,Custodial_Rape,0
+Jammu & Kashmir,KATHUA,Other,Importation_Of_Girls_From_Foreign_Countries,0
+Jammu & Kashmir,KATHUA,Sexual Crime,Rape,0
+Jammu & Kashmir,KATHUA,Kidnapping/Abduction,Kidnapping_And_Abduction,0
+Jammu & Kashmir,KATHUA,Violent Crime,Murder,0
+Jammu & Kashmir,BUDGAM,Property Crime,Theft,9485
+Jammu & Kashmir,BUDGAM,Violent Crime,Hurt/Grevious_Hurt,6780
+Jammu & Kashmir,BUDGAM,Property Crime,Other_Theft,6149
+Jammu & Kashmir,BUDGAM,Property Crime,Auto_Theft,3336
+Jammu & Kashmir,BUDGAM,Property Crime,Burglary,3124
+Jammu & Kashmir,BUDGAM,Trust/Deception Crime,Cheating,2478
+Jammu & Kashmir,BUDGAM,Negligence,Causing_Death_By_Negligence,1519
+Jammu & Kashmir,BUDGAM,Family-Related Crime,Cruelty_By_Husband_Or_His_Relatives,1082
+Jammu & Kashmir,BUDGAM,Violent Crime,Riots,882
+Jammu & Kashmir,BUDGAM,Sexual Crime,Assault_On_Women_With_Intent_To_Outrage_Her_Modesty,793
+Jammu & Kashmir,BUDGAM,Violent Crime,Attempt_To_Murder,598
+Jammu & Kashmir,BUDGAM,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Women_And_Girls,426
+Jammu & Kashmir,BUDGAM,Trust/Deception Crime,Criminal_Breach_Of_Trust,409
+Jammu & Kashmir,BUDGAM,Sexual Crime,Other_Rape,328
+Jammu & Kashmir,BUDGAM,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Others,182
+Jammu & Kashmir,BUDGAM,Sexual Crime,Insult_To_Modesty_Of_Women,119
+Jammu & Kashmir,BUDGAM,Family-Related Crime,Dowry_Deaths,112
+Jammu & Kashmir,BUDGAM,Trust/Deception Crime,Counterfieting,92
+Jammu & Kashmir,BUDGAM,Kidnapping/Abduction,Kidnapping_And_Abduction,63
+Jammu & Kashmir,BUDGAM,Violent Crime,Culpable_Homicide_Not_Amounting_To_Murder,50
+Jammu & Kashmir,BUDGAM,Property Crime,Preparation_And_Assembly_For_Dacoity,43
+Jammu & Kashmir,BUDGAM,Violent Crime,Murder,27
+Jammu & Kashmir,BUDGAM,Sexual Crime,Rape,6
+Jammu & Kashmir,BUDGAM,Sexual Crime,Custodial_Rape,0
+Jammu & Kashmir,BUDGAM,Other,Importation_Of_Girls_From_Foreign_Countries,0
+Jammu & Kashmir,BARAMULLA,Violent Crime,Hurt/Grevious_Hurt,7976
+Jammu & Kashmir,BARAMULLA,Property Crime,Theft,6930
+Jammu & Kashmir,BARAMULLA,Property Crime,Other_Theft,4411
+Jammu & Kashmir,BARAMULLA,Property Crime,Auto_Theft,2519
+Jammu & Kashmir,BARAMULLA,Negligence,Causing_Death_By_Negligence,2418
+Jammu & Kashmir,BARAMULLA,Property Crime,Burglary,2394
+Jammu & Kashmir,BARAMULLA,Family-Related Crime,Cruelty_By_Husband_Or_His_Relatives,1739
+Jammu & Kashmir,BARAMULLA,Trust/Deception Crime,Cheating,1731
+Jammu & Kashmir,BARAMULLA,Violent Crime,Riots,1598
+Jammu & Kashmir,BARAMULLA,Sexual Crime,Assault_On_Women_With_Intent_To_Outrage_Her_Modesty,1061
+Jammu & Kashmir,BARAMULLA,Violent Crime,Attempt_To_Murder,676
+Jammu & Kashmir,BARAMULLA,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Women_And_Girls,620
+Jammu & Kashmir,BARAMULLA,Sexual Crime,Other_Rape,432
+Jammu & Kashmir,BARAMULLA,Trust/Deception Crime,Criminal_Breach_Of_Trust,281
+Jammu & Kashmir,BARAMULLA,Sexual Crime,Insult_To_Modesty_Of_Women,153
+Jammu & Kashmir,BARAMULLA,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Others,117
+Jammu & Kashmir,BARAMULLA,Kidnapping/Abduction,Kidnapping_And_Abduction,109
+Jammu & Kashmir,BARAMULLA,Family-Related Crime,Dowry_Deaths,92
+Jammu & Kashmir,BARAMULLA,Trust/Deception Crime,Counterfieting,84
+Jammu & Kashmir,BARAMULLA,Violent Crime,Murder,78
+Jammu & Kashmir,BARAMULLA,Violent Crime,Culpable_Homicide_Not_Amounting_To_Murder,62
+Jammu & Kashmir,BARAMULLA,Property Crime,Arson,24
+Jammu & Kashmir,BARAMULLA,Sexual Crime,Rape,16
+Jammu & Kashmir,BARAMULLA,Sexual Crime,Custodial_Rape,0
+Jammu & Kashmir,BARAMULLA,Other,Importation_Of_Girls_From_Foreign_Countries,0
+Jammu & Kashmir,CRIME JAMMU,Property Crime,Theft,7537
+Jammu & Kashmir,CRIME JAMMU,Violent Crime,Hurt/Grevious_Hurt,6250
+Jammu & Kashmir,CRIME JAMMU,Property Crime,Auto_Theft,3889
+Jammu & Kashmir,CRIME JAMMU,Property Crime,Other_Theft,3648
+Jammu & Kashmir,CRIME JAMMU,Negligence,Causing_Death_By_Negligence,2561
+Jammu & Kashmir,CRIME JAMMU,Property Crime,Burglary,2282
+Jammu & Kashmir,CRIME JAMMU,Trust/Deception Crime,Cheating,1544
+Jammu & Kashmir,CRIME JAMMU,Family-Related Crime,Cruelty_By_Husband_Or_His_Relatives,1373
+Jammu & Kashmir,CRIME JAMMU,Violent Crime,Riots,1337
+Jammu & Kashmir,CRIME JAMMU,Sexual Crime,Assault_On_Women_With_Intent_To_Outrage_Her_Modesty,800
+Jammu & Kashmir,CRIME JAMMU,Violent Crime,Attempt_To_Murder,762
+Jammu & Kashmir,CRIME JAMMU,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Women_And_Girls,693
+Jammu & Kashmir,CRIME JAMMU,Sexual Crime,Other_Rape,343
+Jammu & Kashmir,CRIME JAMMU,Trust/Deception Crime,Criminal_Breach_Of_Trust,274
+Jammu & Kashmir,CRIME JAMMU,Family-Related Crime,Dowry_Deaths,227
+Jammu & Kashmir,CRIME JAMMU,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Others,195
+Jammu & Kashmir,CRIME JAMMU,Sexual Crime,Insult_To_Modesty_Of_Women,100
+Jammu & Kashmir,CRIME JAMMU,Trust/Deception Crime,Counterfieting,92
+Jammu & Kashmir,CRIME JAMMU,Violent Crime,Culpable_Homicide_Not_Amounting_To_Murder,82
+Jammu & Kashmir,CRIME JAMMU,Property Crime,Preparation_And_Assembly_For_Dacoity,25
+Jammu & Kashmir,CRIME JAMMU,Sexual Crime,Custodial_Rape,0
+Jammu & Kashmir,CRIME JAMMU,Other,Importation_Of_Girls_From_Foreign_Countries,0
+Jammu & Kashmir,CRIME JAMMU,Sexual Crime,Rape,0
+Jammu & Kashmir,CRIME JAMMU,Kidnapping/Abduction,Kidnapping_And_Abduction,0
+Jammu & Kashmir,CRIME JAMMU,Violent Crime,Murder,0
+Jammu & Kashmir,JAMMU,Property Crime,Theft,6831
+Jammu & Kashmir,JAMMU,Violent Crime,Hurt/Grevious_Hurt,4467
+Jammu & Kashmir,JAMMU,Property Crime,Auto_Theft,3612
+Jammu & Kashmir,JAMMU,Property Crime,Other_Theft,3219
+Jammu & Kashmir,JAMMU,Negligence,Causing_Death_By_Negligence,2404
+Jammu & Kashmir,JAMMU,Trust/Deception Crime,Cheating,1997
+Jammu & Kashmir,JAMMU,Property Crime,Burglary,1602
+Jammu & Kashmir,JAMMU,Family-Related Crime,Cruelty_By_Husband_Or_His_Relatives,1320
+Jammu & Kashmir,JAMMU,Violent Crime,Riots,1161
+Jammu & Kashmir,JAMMU,Sexual Crime,Assault_On_Women_With_Intent_To_Outrage_Her_Modesty,810
+Jammu & Kashmir,JAMMU,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Women_And_Girls,786
+Jammu & Kashmir,JAMMU,Violent Crime,Attempt_To_Murder,653
+Jammu & Kashmir,JAMMU,Trust/Deception Crime,Criminal_Breach_Of_Trust,352
+Jammu & Kashmir,JAMMU,Sexual Crime,Other_Rape,339
+Jammu & Kashmir,JAMMU,Family-Related Crime,Dowry_Deaths,184
+Jammu & Kashmir,JAMMU,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Others,132
+Jammu & Kashmir,JAMMU,Violent Crime,Culpable_Homicide_Not_Amounting_To_Murder,74
+Jammu & Kashmir,JAMMU,Trust/Deception Crime,Counterfieting,30
+Jammu & Kashmir,JAMMU,Sexual Crime,Insult_To_Modesty_Of_Women,15
+Jammu & Kashmir,JAMMU,Property Crime,Preparation_And_Assembly_For_Dacoity,12
+Jammu & Kashmir,JAMMU,Sexual Crime,Custodial_Rape,0
+Jammu & Kashmir,JAMMU,Other,Importation_Of_Girls_From_Foreign_Countries,0
+Jammu & Kashmir,JAMMU,Sexual Crime,Rape,0
+Jammu & Kashmir,JAMMU,Kidnapping/Abduction,Kidnapping_And_Abduction,0
+Jammu & Kashmir,JAMMU,Violent Crime,Murder,0
+Madhya Pradesh,RAJGARH,Property Crime,Theft,31149
+Madhya Pradesh,RAJGARH,Property Crime,Auto_Theft,18796
+Madhya Pradesh,RAJGARH,Property Crime,Other_Theft,12353
+Madhya Pradesh,RAJGARH,Violent Crime,Hurt/Grevious_Hurt,9852
+Madhya Pradesh,RAJGARH,Trust/Deception Crime,Cheating,3685
+Madhya Pradesh,RAJGARH,Family-Related Crime,Cruelty_By_Husband_Or_His_Relatives,3516
+Madhya Pradesh,RAJGARH,Property Crime,Burglary,3404
+Madhya Pradesh,RAJGARH,Negligence,Causing_Death_By_Negligence,2886
+Madhya Pradesh,RAJGARH,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Women_And_Girls,2716
+Madhya Pradesh,RAJGARH,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Others,1987
+Madhya Pradesh,RAJGARH,Sexual Crime,Assault_On_Women_With_Intent_To_Outrage_Her_Modesty,1795
+Madhya Pradesh,RAJGARH,Sexual Crime,Other_Rape,1118
+Madhya Pradesh,RAJGARH,Violent Crime,Attempt_To_Murder,905
+Madhya Pradesh,RAJGARH,Violent Crime,Riots,685
+Madhya Pradesh,RAJGARH,Trust/Deception Crime,Criminal_Breach_Of_Trust,530
+Madhya Pradesh,RAJGARH,Sexual Crime,Insult_To_Modesty_Of_Women,506
+Madhya Pradesh,RAJGARH,Family-Related Crime,Dowry_Deaths,279
+Madhya Pradesh,RAJGARH,Sexual Crime,Rape,223
+Madhya Pradesh,RAJGARH,Violent Crime,Culpable_Homicide_Not_Amounting_To_Murder,137
+Madhya Pradesh,RAJGARH,Kidnapping/Abduction,Kidnapping_And_Abduction,119
+Madhya Pradesh,RAJGARH,Property Crime,Arson,101
+Madhya Pradesh,RAJGARH,Violent Crime,Murder,71
+Madhya Pradesh,RAJGARH,Trust/Deception Crime,Counterfieting,54
+Madhya Pradesh,RAJGARH,Sexual Crime,Custodial_Rape,0
+Madhya Pradesh,RAJGARH,Other,Importation_Of_Girls_From_Foreign_Countries,0
+Madhya Pradesh,GWALIOR,Property Crime,Theft,28340
+Madhya Pradesh,GWALIOR,Property Crime,Auto_Theft,17216
+Madhya Pradesh,GWALIOR,Property Crime,Other_Theft,11124
+Madhya Pradesh,GWALIOR,Violent Crime,Hurt/Grevious_Hurt,7053
+Madhya Pradesh,GWALIOR,Trust/Deception Crime,Cheating,3548
+Madhya Pradesh,GWALIOR,Property Crime,Burglary,3205
+Madhya Pradesh,GWALIOR,Family-Related Crime,Cruelty_By_Husband_Or_His_Relatives,3014
+Madhya Pradesh,GWALIOR,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Women_And_Girls,2572
+Madhya Pradesh,GWALIOR,Negligence,Causing_Death_By_Negligence,2255
+Madhya Pradesh,GWALIOR,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Others,1988
+Madhya Pradesh,GWALIOR,Sexual Crime,Assault_On_Women_With_Intent_To_Outrage_Her_Modesty,1210
+Madhya Pradesh,GWALIOR,Sexual Crime,Other_Rape,1009
+Madhya Pradesh,GWALIOR,Violent Crime,Attempt_To_Murder,984
+Madhya Pradesh,GWALIOR,Trust/Deception Crime,Criminal_Breach_Of_Trust,516
+Madhya Pradesh,GWALIOR,Violent Crime,Riots,467
+Madhya Pradesh,GWALIOR,Sexual Crime,Insult_To_Modesty_Of_Women,370
+Madhya Pradesh,GWALIOR,Family-Related Crime,Dowry_Deaths,310
+Madhya Pradesh,GWALIOR,Violent Crime,Culpable_Homicide_Not_Amounting_To_Murder,199
+Madhya Pradesh,GWALIOR,Trust/Deception Crime,Counterfieting,111
+Madhya Pradesh,GWALIOR,Property Crime,Robbery,110
+Madhya Pradesh,GWALIOR,Sexual Crime,Rape,104
+Madhya Pradesh,GWALIOR,Violent Crime,Murder,90
+Madhya Pradesh,GWALIOR,Kidnapping/Abduction,Kidnapping_And_Abduction,55
+Madhya Pradesh,GWALIOR,Sexual Crime,Custodial_Rape,0
+Madhya Pradesh,GWALIOR,Other,Importation_Of_Girls_From_Foreign_Countries,0
+Madhya Pradesh,CHHATARPUR,Property Crime,Theft,24998
+Madhya Pradesh,CHHATARPUR,Property Crime,Auto_Theft,15194
+Madhya Pradesh,CHHATARPUR,Property Crime,Other_Theft,9804
+Madhya Pradesh,CHHATARPUR,Violent Crime,Hurt/Grevious_Hurt,5644
+Madhya Pradesh,CHHATARPUR,Trust/Deception Crime,Cheating,3363
+Madhya Pradesh,CHHATARPUR,Family-Related Crime,Cruelty_By_Husband_Or_His_Relatives,3151
+Madhya Pradesh,CHHATARPUR,Property Crime,Burglary,2767
+Madhya Pradesh,CHHATARPUR,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Women_And_Girls,2513
+Madhya Pradesh,CHHATARPUR,Negligence,Causing_Death_By_Negligence,2215
+Madhya Pradesh,CHHATARPUR,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Others,1884
+Madhya Pradesh,CHHATARPUR,Sexual Crime,Assault_On_Women_With_Intent_To_Outrage_Her_Modesty,1223
+Madhya Pradesh,CHHATARPUR,Violent Crime,Attempt_To_Murder,1000
+Madhya Pradesh,CHHATARPUR,Sexual Crime,Other_Rape,967
+Madhya Pradesh,CHHATARPUR,Violent Crime,Riots,700
+Madhya Pradesh,CHHATARPUR,Trust/Deception Crime,Criminal_Breach_Of_Trust,517
+Madhya Pradesh,CHHATARPUR,Sexual Crime,Insult_To_Modesty_Of_Women,362
+Madhya Pradesh,CHHATARPUR,Family-Related Crime,Dowry_Deaths,246
+Madhya Pradesh,CHHATARPUR,Violent Crime,Culpable_Homicide_Not_Amounting_To_Murder,203
+Madhya Pradesh,CHHATARPUR,Sexual Crime,Rape,104
+Madhya Pradesh,CHHATARPUR,Property Crime,Preparation_And_Assembly_For_Dacoity,96
+Madhya Pradesh,CHHATARPUR,Trust/Deception Crime,Counterfieting,84
+Madhya Pradesh,CHHATARPUR,Violent Crime,Murder,58
+Madhya Pradesh,CHHATARPUR,Kidnapping/Abduction,Kidnapping_And_Abduction,13
+Madhya Pradesh,CHHATARPUR,Sexual Crime,Custodial_Rape,0
+Madhya Pradesh,CHHATARPUR,Other,Importation_Of_Girls_From_Foreign_Countries,0
+Madhya Pradesh,RATLAM,Property Crime,Theft,16616
+Madhya Pradesh,RATLAM,Violent Crime,Hurt/Grevious_Hurt,13878
+Madhya Pradesh,RATLAM,Property Crime,Other_Theft,9860
+Madhya Pradesh,RATLAM,Property Crime,Auto_Theft,6756
+Madhya Pradesh,RATLAM,Trust/Deception Crime,Cheating,5317
+Madhya Pradesh,RATLAM,Family-Related Crime,Cruelty_By_Husband_Or_His_Relatives,3271
+Madhya Pradesh,RATLAM,Negligence,Causing_Death_By_Negligence,3217
+Madhya Pradesh,RATLAM,Property Crime,Burglary,2315
+Madhya Pradesh,RATLAM,Sexual Crime,Assault_On_Women_With_Intent_To_Outrage_Her_Modesty,1939
+Madhya Pradesh,RATLAM,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Women_And_Girls,1228
+Madhya Pradesh,RATLAM,Violent Crime,Attempt_To_Murder,1107
+Madhya Pradesh,RATLAM,Violent Crime,Riots,1009
+Madhya Pradesh,RATLAM,Sexual Crime,Other_Rape,724
+Madhya Pradesh,RATLAM,Trust/Deception Crime,Criminal_Breach_Of_Trust,709
+Madhya Pradesh,RATLAM,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Others,644
+Madhya Pradesh,RATLAM,Sexual Crime,Insult_To_Modesty_Of_Women,380
+Madhya Pradesh,RATLAM,Family-Related Crime,Dowry_Deaths,312
+Madhya Pradesh,RATLAM,Sexual Crime,Rape,207
+Madhya Pradesh,RATLAM,Violent Crime,Culpable_Homicide_Not_Amounting_To_Murder,136
+Madhya Pradesh,RATLAM,Trust/Deception Crime,Counterfieting,99
+Madhya Pradesh,RATLAM,Violent Crime,Murder,94
+Madhya Pradesh,RATLAM,Property Crime,Preparation_And_Assembly_For_Dacoity,76
+Madhya Pradesh,RATLAM,Kidnapping/Abduction,Kidnapping_And_Abduction,55
+Madhya Pradesh,RATLAM,Other,Importation_Of_Girls_From_Foreign_Countries,4
+Madhya Pradesh,RATLAM,Sexual Crime,Custodial_Rape,0
+Madhya Pradesh,SAGAR,Violent Crime,Hurt/Grevious_Hurt,17086
+Madhya Pradesh,SAGAR,Property Crime,Theft,10665
+Madhya Pradesh,SAGAR,Property Crime,Other_Theft,7258
+Madhya Pradesh,SAGAR,Family-Related Crime,Cruelty_By_Husband_Or_His_Relatives,6823
+Madhya Pradesh,SAGAR,Property Crime,Auto_Theft,3407
+Madhya Pradesh,SAGAR,Sexual Crime,Assault_On_Women_With_Intent_To_Outrage_Her_Modesty,3097
+Madhya Pradesh,SAGAR,Property Crime,Burglary,2812
+Madhya Pradesh,SAGAR,Negligence,Causing_Death_By_Negligence,2380
+Madhya Pradesh,SAGAR,Trust/Deception Crime,Cheating,2338
+Madhya Pradesh,SAGAR,Violent Crime,Riots,2000
+Madhya Pradesh,SAGAR,Sexual Crime,Other_Rape,1559
+Madhya Pradesh,SAGAR,Violent Crime,Attempt_To_Murder,1498
+Madhya Pradesh,SAGAR,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Women_And_Girls,1355
+Madhya Pradesh,SAGAR,Sexual Crime,Insult_To_Modesty_Of_Women,653
+Madhya Pradesh,SAGAR,Trust/Deception Crime,Criminal_Breach_Of_Trust,534
+Madhya Pradesh,SAGAR,Sexual Crime,Rape,521
+Madhya Pradesh,SAGAR,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Others,480
+Madhya Pradesh,SAGAR,Property Crime,Preparation_And_Assembly_For_Dacoity,392
+Madhya Pradesh,SAGAR,Family-Related Crime,Dowry_Deaths,322
+Madhya Pradesh,SAGAR,Violent Crime,Murder,267
+Madhya Pradesh,SAGAR,Kidnapping/Abduction,Kidnapping_And_Abduction,183
+Madhya Pradesh,SAGAR,Violent Crime,Culpable_Homicide_Not_Amounting_To_Murder,171
+Madhya Pradesh,SAGAR,Trust/Deception Crime,Counterfieting,39
+Madhya Pradesh,SAGAR,Other,Importation_Of_Girls_From_Foreign_Countries,0
+Madhya Pradesh,SAGAR,Sexual Crime,Custodial_Rape,0
+Andhra Pradesh,HYDERABAD CITY,Property Crime,Theft,20872
+Andhra Pradesh,HYDERABAD CITY,Violent Crime,Hurt/Grevious_Hurt,17067
+Andhra Pradesh,HYDERABAD CITY,Property Crime,Other_Theft,12658
+Andhra Pradesh,HYDERABAD CITY,Property Crime,Auto_Theft,8214
+Andhra Pradesh,HYDERABAD CITY,Trust/Deception Crime,Cheating,6811
+Andhra Pradesh,HYDERABAD CITY,Property Crime,Burglary,5811
+Andhra Pradesh,HYDERABAD CITY,Family-Related Crime,Cruelty_By_Husband_Or_His_Relatives,4669
+Andhra Pradesh,HYDERABAD CITY,Negligence,Causing_Death_By_Negligence,2812
+Andhra Pradesh,HYDERABAD CITY,Violent Crime,Riots,1673
+Andhra Pradesh,HYDERABAD CITY,Sexual Crime,Assault_On_Women_With_Intent_To_Outrage_Her_Modesty,1466
+Andhra Pradesh,HYDERABAD CITY,Sexual Crime,Insult_To_Modesty_Of_Women,1054
+Andhra Pradesh,HYDERABAD CITY,Violent Crime,Attempt_To_Murder,755
+Andhra Pradesh,HYDERABAD CITY,Sexual Crime,Other_Rape,548
+Andhra Pradesh,HYDERABAD CITY,Trust/Deception Crime,Criminal_Breach_Of_Trust,493
+Andhra Pradesh,HYDERABAD CITY,Violent Crime,Murder,382
+Andhra Pradesh,HYDERABAD CITY,Kidnapping/Abduction,Kidnapping_And_Abduction,381
+Andhra Pradesh,HYDERABAD CITY,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Women_And_Girls,379
+Andhra Pradesh,HYDERABAD CITY,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Others,286
+Andhra Pradesh,HYDERABAD CITY,Property Crime,Robbery,255
+Andhra Pradesh,HYDERABAD CITY,Sexual Crime,Rape,180
+Andhra Pradesh,HYDERABAD CITY,Family-Related Crime,Dowry_Deaths,174
+Andhra Pradesh,HYDERABAD CITY,Trust/Deception Crime,Counterfieting,101
+Andhra Pradesh,HYDERABAD CITY,Violent Crime,Culpable_Homicide_Not_Amounting_To_Murder,42
+Andhra Pradesh,HYDERABAD CITY,Other,Importation_Of_Girls_From_Foreign_Countries,2
+Andhra Pradesh,HYDERABAD CITY,Sexual Crime,Custodial_Rape,0
+Andhra Pradesh,MEDAK,Property Crime,Theft,22342
+Andhra Pradesh,MEDAK,Property Crime,Other_Theft,13472
+Andhra Pradesh,MEDAK,Violent Crime,Hurt/Grevious_Hurt,10968
+Andhra Pradesh,MEDAK,Property Crime,Auto_Theft,8870
+Andhra Pradesh,MEDAK,Property Crime,Burglary,5547
+Andhra Pradesh,MEDAK,Trust/Deception Crime,Cheating,3811
+Andhra Pradesh,MEDAK,Negligence,Causing_Death_By_Negligence,2734
+Andhra Pradesh,MEDAK,Violent Crime,Riots,2688
+Andhra Pradesh,MEDAK,Family-Related Crime,Cruelty_By_Husband_Or_His_Relatives,2124
+Andhra Pradesh,MEDAK,Sexual Crime,Assault_On_Women_With_Intent_To_Outrage_Her_Modesty,1591
+Andhra Pradesh,MEDAK,Trust/Deception Crime,Criminal_Breach_Of_Trust,862
+Andhra Pradesh,MEDAK,Violent Crime,Attempt_To_Murder,703
+Andhra Pradesh,MEDAK,Sexual Crime,Insult_To_Modesty_Of_Women,597
+Andhra Pradesh,MEDAK,Sexual Crime,Other_Rape,591
+Andhra Pradesh,MEDAK,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Women_And_Girls,478
+Andhra Pradesh,MEDAK,Property Crime,Preparation_And_Assembly_For_Dacoity,186
+Andhra Pradesh,MEDAK,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Others,157
+Andhra Pradesh,MEDAK,Family-Related Crime,Dowry_Deaths,130
+Andhra Pradesh,MEDAK,Trust/Deception Crime,Counterfieting,120
+Andhra Pradesh,MEDAK,Violent Crime,Culpable_Homicide_Not_Amounting_To_Murder,33
+Andhra Pradesh,MEDAK,Sexual Crime,Rape,16
+Andhra Pradesh,MEDAK,Violent Crime,Murder,4
+Andhra Pradesh,MEDAK,Sexual Crime,Custodial_Rape,0
+Andhra Pradesh,MEDAK,Other,Importation_Of_Girls_From_Foreign_Countries,0
+Andhra Pradesh,MEDAK,Kidnapping/Abduction,Kidnapping_And_Abduction,0
+Andhra Pradesh,GUNTUR,Property Crime,Theft,17585
+Andhra Pradesh,GUNTUR,Violent Crime,Hurt/Grevious_Hurt,12359
+Andhra Pradesh,GUNTUR,Property Crime,Other_Theft,11449
+Andhra Pradesh,GUNTUR,Property Crime,Auto_Theft,6136
+Andhra Pradesh,GUNTUR,Property Crime,Burglary,5958
+Andhra Pradesh,GUNTUR,Trust/Deception Crime,Cheating,4237
+Andhra Pradesh,GUNTUR,Negligence,Causing_Death_By_Negligence,2501
+Andhra Pradesh,GUNTUR,Sexual Crime,Assault_On_Women_With_Intent_To_Outrage_Her_Modesty,2327
+Andhra Pradesh,GUNTUR,Family-Related Crime,Cruelty_By_Husband_Or_His_Relatives,2325
+Andhra Pradesh,GUNTUR,Violent Crime,Riots,1913
+Andhra Pradesh,GUNTUR,Trust/Deception Crime,Criminal_Breach_Of_Trust,998
+Andhra Pradesh,GUNTUR,Sexual Crime,Other_Rape,812
+Andhra Pradesh,GUNTUR,Violent Crime,Attempt_To_Murder,762
+Andhra Pradesh,GUNTUR,Sexual Crime,Insult_To_Modesty_Of_Women,610
+Andhra Pradesh,GUNTUR,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Women_And_Girls,551
+Andhra Pradesh,GUNTUR,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Others,208
+Andhra Pradesh,GUNTUR,Family-Related Crime,Dowry_Deaths,147
+Andhra Pradesh,GUNTUR,Trust/Deception Crime,Counterfieting,83
+Andhra Pradesh,GUNTUR,Property Crime,Preparation_And_Assembly_For_Dacoity,55
+Andhra Pradesh,GUNTUR,Violent Crime,Culpable_Homicide_Not_Amounting_To_Murder,45
+Andhra Pradesh,GUNTUR,Sexual Crime,Rape,14
+Andhra Pradesh,GUNTUR,Violent Crime,Murder,6
+Andhra Pradesh,GUNTUR,Kidnapping/Abduction,Kidnapping_And_Abduction,1
+Andhra Pradesh,GUNTUR,Sexual Crime,Custodial_Rape,0
+Andhra Pradesh,GUNTUR,Other,Importation_Of_Girls_From_Foreign_Countries,0
+Andhra Pradesh,CUDDAPAH,Property Crime,Theft,16740
+Andhra Pradesh,CUDDAPAH,Violent Crime,Hurt/Grevious_Hurt,13800
+Andhra Pradesh,CUDDAPAH,Property Crime,Other_Theft,11136
+Andhra Pradesh,CUDDAPAH,Property Crime,Auto_Theft,5604
+Andhra Pradesh,CUDDAPAH,Property Crime,Burglary,5144
+Andhra Pradesh,CUDDAPAH,Trust/Deception Crime,Cheating,3035
+Andhra Pradesh,CUDDAPAH,Negligence,Causing_Death_By_Negligence,2835
+Andhra Pradesh,CUDDAPAH,Family-Related Crime,Cruelty_By_Husband_Or_His_Relatives,2502
+Andhra Pradesh,CUDDAPAH,Violent Crime,Riots,2426
+Andhra Pradesh,CUDDAPAH,Sexual Crime,Assault_On_Women_With_Intent_To_Outrage_Her_Modesty,2168
+Andhra Pradesh,CUDDAPAH,Trust/Deception Crime,Criminal_Breach_Of_Trust,972
+Andhra Pradesh,CUDDAPAH,Violent Crime,Attempt_To_Murder,887
+Andhra Pradesh,CUDDAPAH,Sexual Crime,Other_Rape,794
+Andhra Pradesh,CUDDAPAH,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Women_And_Girls,552
+Andhra Pradesh,CUDDAPAH,Sexual Crime,Insult_To_Modesty_Of_Women,548
+Andhra Pradesh,CUDDAPAH,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Others,171
+Andhra Pradesh,CUDDAPAH,Family-Related Crime,Dowry_Deaths,169
+Andhra Pradesh,CUDDAPAH,Violent Crime,Murder,115
+Andhra Pradesh,CUDDAPAH,Kidnapping/Abduction,Kidnapping_And_Abduction,77
+Andhra Pradesh,CUDDAPAH,Trust/Deception Crime,Counterfieting,69
+Andhra Pradesh,CUDDAPAH,Violent Crime,Culpable_Homicide_Not_Amounting_To_Murder,64
+Andhra Pradesh,CUDDAPAH,Property Crime,Preparation_And_Assembly_For_Dacoity,55
+Andhra Pradesh,CUDDAPAH,Sexual Crime,Rape,36
+Andhra Pradesh,CUDDAPAH,Sexual Crime,Custodial_Rape,0
+Andhra Pradesh,CUDDAPAH,Other,Importation_Of_Girls_From_Foreign_Countries,0
+Andhra Pradesh,VISAKHA RURAL,Property Crime,Theft,19670
+Andhra Pradesh,VISAKHA RURAL,Property Crime,Other_Theft,11005
+Andhra Pradesh,VISAKHA RURAL,Violent Crime,Hurt/Grevious_Hurt,10324
+Andhra Pradesh,VISAKHA RURAL,Property Crime,Auto_Theft,8665
+Andhra Pradesh,VISAKHA RURAL,Property Crime,Burglary,5265
+Andhra Pradesh,VISAKHA RURAL,Trust/Deception Crime,Cheating,3173
+Andhra Pradesh,VISAKHA RURAL,Negligence,Causing_Death_By_Negligence,2105
+Andhra Pradesh,VISAKHA RURAL,Violent Crime,Riots,1582
+Andhra Pradesh,VISAKHA RURAL,Family-Related Crime,Cruelty_By_Husband_Or_His_Relatives,1378
+Andhra Pradesh,VISAKHA RURAL,Sexual Crime,Assault_On_Women_With_Intent_To_Outrage_Her_Modesty,1170
+Andhra Pradesh,VISAKHA RURAL,Violent Crime,Attempt_To_Murder,779
+Andhra Pradesh,VISAKHA RURAL,Sexual Crime,Other_Rape,480
+Andhra Pradesh,VISAKHA RURAL,Trust/Deception Crime,Criminal_Breach_Of_Trust,432
+Andhra Pradesh,VISAKHA RURAL,Sexual Crime,Insult_To_Modesty_Of_Women,294
+Andhra Pradesh,VISAKHA RURAL,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Women_And_Girls,252
+Andhra Pradesh,VISAKHA RURAL,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Others,199
+Andhra Pradesh,VISAKHA RURAL,Family-Related Crime,Dowry_Deaths,142
+Andhra Pradesh,VISAKHA RURAL,Trust/Deception Crime,Counterfieting,137
+Andhra Pradesh,VISAKHA RURAL,Property Crime,Preparation_And_Assembly_For_Dacoity,127
+Andhra Pradesh,VISAKHA RURAL,Violent Crime,Culpable_Homicide_Not_Amounting_To_Murder,34
+Andhra Pradesh,VISAKHA RURAL,Sexual Crime,Rape,11
+Andhra Pradesh,VISAKHA RURAL,Violent Crime,Murder,3
+Andhra Pradesh,VISAKHA RURAL,Sexual Crime,Custodial_Rape,0
+Andhra Pradesh,VISAKHA RURAL,Other,Importation_Of_Girls_From_Foreign_Countries,0
+Andhra Pradesh,VISAKHA RURAL,Kidnapping/Abduction,Kidnapping_And_Abduction,0

@@ -1,0 +1,251 @@
+State,District,Type_of_Crime,Crime,Count
+A&N Islands,ANDAMAN,Violent Crime,Hurt/Grevious_Hurt,10424
+A&N Islands,ANDAMAN,Property Crime,Theft,5680
+A&N Islands,ANDAMAN,Property Crime,Auto_Theft,3295
+A&N Islands,ANDAMAN,Property Crime,Burglary,2464
+A&N Islands,ANDAMAN,Property Crime,Other_Theft,2385
+A&N Islands,ANDAMAN,Negligence,Causing_Death_By_Negligence,1091
+A&N Islands,ANDAMAN,Family-Related Crime,Cruelty_By_Husband_Or_His_Relatives,1016
+A&N Islands,ANDAMAN,Violent Crime,Riots,942
+A&N Islands,ANDAMAN,Sexual Crime,Assault_On_Women_With_Intent_To_Outrage_Her_Modesty,860
+A&N Islands,ANDAMAN,Sexual Crime,Insult_To_Modesty_Of_Women,841
+A&N Islands,ANDAMAN,Sexual Crime,Other_Rape,518
+A&N Islands,ANDAMAN,Trust/Deception Crime,Cheating,491
+A&N Islands,ANDAMAN,Violent Crime,Attempt_To_Murder,397
+A&N Islands,ANDAMAN,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Women_And_Girls,271
+A&N Islands,ANDAMAN,Trust/Deception Crime,Criminal_Breach_Of_Trust,184
+A&N Islands,ANDAMAN,Family-Related Crime,Dowry_Deaths,162
+A&N Islands,ANDAMAN,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Others,74
+A&N Islands,ANDAMAN,Violent Crime,Culpable_Homicide_Not_Amounting_To_Murder,39
+A&N Islands,ANDAMAN,Property Crime,Preparation_And_Assembly_For_Dacoity,32
+A&N Islands,ANDAMAN,Trust/Deception Crime,Counterfieting,18
+A&N Islands,ANDAMAN,Other,Importation_Of_Girls_From_Foreign_Countries,3
+A&N Islands,ANDAMAN,Sexual Crime,Rape,2
+A&N Islands,ANDAMAN,Violent Crime,Murder,1
+A&N Islands,ANDAMAN,Kidnapping/Abduction,Kidnapping_And_Abduction,1
+A&N Islands,ANDAMAN,Sexual Crime,Custodial_Rape,0
+A&N Islands,NICOBAR,Property Crime,Theft,3407
+A&N Islands,NICOBAR,Violent Crime,Hurt/Grevious_Hurt,2809
+A&N Islands,NICOBAR,Property Crime,Other_Theft,2672
+A&N Islands,NICOBAR,Property Crime,Burglary,987
+A&N Islands,NICOBAR,Violent Crime,Riots,841
+A&N Islands,NICOBAR,Property Crime,Auto_Theft,735
+A&N Islands,NICOBAR,Family-Related Crime,Cruelty_By_Husband_Or_His_Relatives,584
+A&N Islands,NICOBAR,Sexual Crime,Assault_On_Women_With_Intent_To_Outrage_Her_Modesty,502
+A&N Islands,NICOBAR,Negligence,Causing_Death_By_Negligence,486
+A&N Islands,NICOBAR,Trust/Deception Crime,Cheating,389
+A&N Islands,NICOBAR,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Women_And_Girls,228
+A&N Islands,NICOBAR,Sexual Crime,Other_Rape,228
+A&N Islands,NICOBAR,Violent Crime,Attempt_To_Murder,190
+A&N Islands,NICOBAR,Trust/Deception Crime,Criminal_Breach_Of_Trust,161
+A&N Islands,NICOBAR,Sexual Crime,Insult_To_Modesty_Of_Women,63
+A&N Islands,NICOBAR,Family-Related Crime,Dowry_Deaths,54
+A&N Islands,NICOBAR,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Others,47
+A&N Islands,NICOBAR,Trust/Deception Crime,Counterfieting,29
+A&N Islands,NICOBAR,Property Crime,Preparation_And_Assembly_For_Dacoity,28
+A&N Islands,NICOBAR,Violent Crime,Culpable_Homicide_Not_Amounting_To_Murder,23
+A&N Islands,NICOBAR,Other,Importation_Of_Girls_From_Foreign_Countries,3
+A&N Islands,NICOBAR,Sexual Crime,Rape,0
+A&N Islands,NICOBAR,Kidnapping/Abduction,Kidnapping_And_Abduction,0
+A&N Islands,NICOBAR,Violent Crime,Murder,0
+A&N Islands,NICOBAR,Sexual Crime,Custodial_Rape,0
+A&N Islands,A and N ISLANDS,Violent Crime,Hurt/Grevious_Hurt,737
+A&N Islands,A and N ISLANDS,Family-Related Crime,Cruelty_By_Husband_Or_His_Relatives,545
+A&N Islands,A and N ISLANDS,Violent Crime,Riots,521
+A&N Islands,A and N ISLANDS,Property Crime,Theft,358
+A&N Islands,A and N ISLANDS,Property Crime,Burglary,275
+A&N Islands,A and N ISLANDS,Trust/Deception Crime,Cheating,213
+A&N Islands,A and N ISLANDS,Property Crime,Other_Theft,180
+A&N Islands,A and N ISLANDS,Property Crime,Auto_Theft,178
+A&N Islands,A and N ISLANDS,Sexual Crime,Assault_On_Women_With_Intent_To_Outrage_Her_Modesty,141
+A&N Islands,A and N ISLANDS,Sexual Crime,Other_Rape,35
+A&N Islands,A and N ISLANDS,Sexual Crime,Insult_To_Modesty_Of_Women,33
+A&N Islands,A and N ISLANDS,Violent Crime,Attempt_To_Murder,31
+A&N Islands,A and N ISLANDS,Trust/Deception Crime,Counterfieting,14
+A&N Islands,A and N ISLANDS,Property Crime,Preparation_And_Assembly_For_Dacoity,13
+A&N Islands,A and N ISLANDS,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Women_And_Girls,10
+A&N Islands,A and N ISLANDS,Trust/Deception Crime,Criminal_Breach_Of_Trust,9
+A&N Islands,A and N ISLANDS,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Others,7
+A&N Islands,A and N ISLANDS,Violent Crime,Culpable_Homicide_Not_Amounting_To_Murder,6
+A&N Islands,A and N ISLANDS,Negligence,Causing_Death_By_Negligence,1
+A&N Islands,A and N ISLANDS,Sexual Crime,Custodial_Rape,0
+A&N Islands,A and N ISLANDS,Sexual Crime,Rape,0
+A&N Islands,A and N ISLANDS,Family-Related Crime,Dowry_Deaths,0
+A&N Islands,A and N ISLANDS,Other,Importation_Of_Girls_From_Foreign_Countries,0
+A&N Islands,A and N ISLANDS,Kidnapping/Abduction,Kidnapping_And_Abduction,0
+A&N Islands,A and N ISLANDS,Violent Crime,Murder,0
+A&N Islands,SOUTH,Violent Crime,Riots,270
+A&N Islands,SOUTH,Violent Crime,Hurt/Grevious_Hurt,246
+A&N Islands,SOUTH,Property Crime,Theft,176
+A&N Islands,SOUTH,Property Crime,Other_Theft,166
+A&N Islands,SOUTH,Property Crime,Burglary,46
+A&N Islands,SOUTH,Trust/Deception Crime,Cheating,36
+A&N Islands,SOUTH,Sexual Crime,Other_Rape,31
+A&N Islands,SOUTH,Negligence,Causing_Death_By_Negligence,30
+A&N Islands,SOUTH,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Others,28
+A&N Islands,SOUTH,Family-Related Crime,Cruelty_By_Husband_Or_His_Relatives,28
+A&N Islands,SOUTH,Trust/Deception Crime,Criminal_Breach_Of_Trust,27
+A&N Islands,SOUTH,Sexual Crime,Assault_On_Women_With_Intent_To_Outrage_Her_Modesty,26
+A&N Islands,SOUTH,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Women_And_Girls,22
+A&N Islands,SOUTH,Violent Crime,Attempt_To_Murder,19
+A&N Islands,SOUTH,Family-Related Crime,Dowry_Deaths,14
+A&N Islands,SOUTH,Property Crime,Auto_Theft,10
+A&N Islands,SOUTH,Trust/Deception Crime,Counterfieting,2
+A&N Islands,SOUTH,Violent Crime,Culpable_Homicide_Not_Amounting_To_Murder,1
+A&N Islands,SOUTH,Other,Importation_Of_Girls_From_Foreign_Countries,1
+A&N Islands,SOUTH,Violent Crime,Murder,0
+A&N Islands,SOUTH,Kidnapping/Abduction,Kidnapping_And_Abduction,0
+A&N Islands,SOUTH,Property Crime,Dacoity,0
+A&N Islands,SOUTH,Sexual Crime,Insult_To_Modesty_Of_Women,0
+A&N Islands,SOUTH,Sexual Crime,Custodial_Rape,0
+A&N Islands,SOUTH,Sexual Crime,Rape,0
+A&N Islands,CAR,Violent Crime,Riots,80
+A&N Islands,CAR,Property Crime,Theft,60
+A&N Islands,CAR,Trust/Deception Crime,Criminal_Breach_Of_Trust,59
+A&N Islands,CAR,Property Crime,Other_Theft,58
+A&N Islands,CAR,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Others,24
+A&N Islands,CAR,Trust/Deception Crime,Cheating,21
+A&N Islands,CAR,Violent Crime,Attempt_To_Murder,18
+A&N Islands,CAR,Family-Related Crime,Cruelty_By_Husband_Or_His_Relatives,16
+A&N Islands,CAR,Property Crime,Burglary,11
+A&N Islands,CAR,Negligence,Causing_Death_By_Negligence,9
+A&N Islands,CAR,Violent Crime,Hurt/Grevious_Hurt,8
+A&N Islands,CAR,Sexual Crime,Assault_On_Women_With_Intent_To_Outrage_Her_Modesty,8
+A&N Islands,CAR,Sexual Crime,Other_Rape,6
+A&N Islands,CAR,Family-Related Crime,Dowry_Deaths,5
+A&N Islands,CAR,Property Crime,Auto_Theft,2
+A&N Islands,CAR,Violent Crime,Culpable_Homicide_Not_Amounting_To_Murder,2
+A&N Islands,CAR,Property Crime,Preparation_And_Assembly_For_Dacoity,1
+A&N Islands,CAR,Other,Importation_Of_Girls_From_Foreign_Countries,1
+A&N Islands,CAR,Sexual Crime,Custodial_Rape,0
+A&N Islands,CAR,Sexual Crime,Insult_To_Modesty_Of_Women,0
+A&N Islands,CAR,Sexual Crime,Rape,0
+A&N Islands,CAR,Trust/Deception Crime,Counterfieting,0
+A&N Islands,CAR,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Women_And_Girls,0
+A&N Islands,CAR,Violent Crime,Murder,0
+A&N Islands,CAR,Kidnapping/Abduction,Kidnapping_And_Abduction,0
+Chandigarh,CHANDIGARH,Violent Crime,Hurt/Grevious_Hurt,7199
+Chandigarh,CHANDIGARH,Property Crime,Theft,3831
+Chandigarh,CHANDIGARH,Property Crime,Burglary,2128
+Chandigarh,CHANDIGARH,Property Crime,Other_Theft,2088
+Chandigarh,CHANDIGARH,Property Crime,Auto_Theft,1743
+Chandigarh,CHANDIGARH,Violent Crime,Riots,1242
+Chandigarh,CHANDIGARH,Family-Related Crime,Cruelty_By_Husband_Or_His_Relatives,1086
+Chandigarh,CHANDIGARH,Sexual Crime,Assault_On_Women_With_Intent_To_Outrage_Her_Modesty,1050
+Chandigarh,CHANDIGARH,Negligence,Causing_Death_By_Negligence,989
+Chandigarh,CHANDIGARH,Trust/Deception Crime,Cheating,684
+Chandigarh,CHANDIGARH,Sexual Crime,Other_Rape,504
+Chandigarh,CHANDIGARH,Violent Crime,Attempt_To_Murder,387
+Chandigarh,CHANDIGARH,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Women_And_Girls,233
+Chandigarh,CHANDIGARH,Trust/Deception Crime,Criminal_Breach_Of_Trust,184
+Chandigarh,CHANDIGARH,Family-Related Crime,Dowry_Deaths,134
+Chandigarh,CHANDIGARH,Sexual Crime,Insult_To_Modesty_Of_Women,119
+Chandigarh,CHANDIGARH,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Others,90
+Chandigarh,CHANDIGARH,Property Crime,Preparation_And_Assembly_For_Dacoity,38
+Chandigarh,CHANDIGARH,Violent Crime,Culpable_Homicide_Not_Amounting_To_Murder,30
+Chandigarh,CHANDIGARH,Trust/Deception Crime,Counterfieting,28
+Chandigarh,CHANDIGARH,Other,Importation_Of_Girls_From_Foreign_Countries,9
+Chandigarh,CHANDIGARH,Sexual Crime,Custodial_Rape,0
+Chandigarh,CHANDIGARH,Sexual Crime,Rape,0
+Chandigarh,CHANDIGARH,Kidnapping/Abduction,Kidnapping_And_Abduction,0
+Chandigarh,CHANDIGARH,Violent Crime,Murder,0
+Lakshadweep,LAKSHADWEEP,Violent Crime,Hurt/Grevious_Hurt,6431
+Lakshadweep,LAKSHADWEEP,Property Crime,Theft,3659
+Lakshadweep,LAKSHADWEEP,Property Crime,Other_Theft,2420
+Lakshadweep,LAKSHADWEEP,Property Crime,Burglary,1909
+Lakshadweep,LAKSHADWEEP,Violent Crime,Riots,1709
+Lakshadweep,LAKSHADWEEP,Negligence,Causing_Death_By_Negligence,1339
+Lakshadweep,LAKSHADWEEP,Property Crime,Auto_Theft,1239
+Lakshadweep,LAKSHADWEEP,Family-Related Crime,Cruelty_By_Husband_Or_His_Relatives,1157
+Lakshadweep,LAKSHADWEEP,Sexual Crime,Assault_On_Women_With_Intent_To_Outrage_Her_Modesty,1129
+Lakshadweep,LAKSHADWEEP,Trust/Deception Crime,Cheating,560
+Lakshadweep,LAKSHADWEEP,Violent Crime,Attempt_To_Murder,491
+Lakshadweep,LAKSHADWEEP,Sexual Crime,Other_Rape,466
+Lakshadweep,LAKSHADWEEP,Trust/Deception Crime,Criminal_Breach_Of_Trust,285
+Lakshadweep,LAKSHADWEEP,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Women_And_Girls,233
+Lakshadweep,LAKSHADWEEP,Family-Related Crime,Dowry_Deaths,142
+Lakshadweep,LAKSHADWEEP,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Others,64
+Lakshadweep,LAKSHADWEEP,Sexual Crime,Insult_To_Modesty_Of_Women,58
+Lakshadweep,LAKSHADWEEP,Property Crime,Preparation_And_Assembly_For_Dacoity,27
+Lakshadweep,LAKSHADWEEP,Violent Crime,Culpable_Homicide_Not_Amounting_To_Murder,27
+Lakshadweep,LAKSHADWEEP,Trust/Deception Crime,Counterfieting,7
+Lakshadweep,LAKSHADWEEP,Sexual Crime,Rape,1
+Lakshadweep,LAKSHADWEEP,Violent Crime,Murder,0
+Lakshadweep,LAKSHADWEEP,Kidnapping/Abduction,Kidnapping_And_Abduction,0
+Lakshadweep,LAKSHADWEEP,Other,Importation_Of_Girls_From_Foreign_Countries,0
+Lakshadweep,LAKSHADWEEP,Sexual Crime,Custodial_Rape,0
+Lakshadweep,ZZ TOTAL,Violent Crime,Hurt/Grevious_Hurt,568
+Lakshadweep,ZZ TOTAL,Property Crime,Theft,359
+Lakshadweep,ZZ TOTAL,Property Crime,Other_Theft,250
+Lakshadweep,ZZ TOTAL,Negligence,Causing_Death_By_Negligence,200
+Lakshadweep,ZZ TOTAL,Violent Crime,Riots,184
+Lakshadweep,ZZ TOTAL,Family-Related Crime,Cruelty_By_Husband_Or_His_Relatives,183
+Lakshadweep,ZZ TOTAL,Property Crime,Burglary,151
+Lakshadweep,ZZ TOTAL,Property Crime,Auto_Theft,109
+Lakshadweep,ZZ TOTAL,Trust/Deception Crime,Criminal_Breach_Of_Trust,105
+Lakshadweep,ZZ TOTAL,Trust/Deception Crime,Cheating,49
+Lakshadweep,ZZ TOTAL,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Women_And_Girls,33
+Lakshadweep,ZZ TOTAL,Violent Crime,Attempt_To_Murder,31
+Lakshadweep,ZZ TOTAL,Sexual Crime,Assault_On_Women_With_Intent_To_Outrage_Her_Modesty,22
+Lakshadweep,ZZ TOTAL,Sexual Crime,Other_Rape,8
+Lakshadweep,ZZ TOTAL,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Others,5
+Lakshadweep,ZZ TOTAL,Sexual Crime,Insult_To_Modesty_Of_Women,2
+Lakshadweep,ZZ TOTAL,Violent Crime,Culpable_Homicide_Not_Amounting_To_Murder,1
+Lakshadweep,ZZ TOTAL,Trust/Deception Crime,Counterfieting,0
+Lakshadweep,ZZ TOTAL,Violent Crime,Murder,0
+Lakshadweep,ZZ TOTAL,Kidnapping/Abduction,Kidnapping_And_Abduction,0
+Lakshadweep,ZZ TOTAL,Property Crime,Arson,0
+Lakshadweep,ZZ TOTAL,Sexual Crime,Rape,0
+Lakshadweep,ZZ TOTAL,Other,Importation_Of_Girls_From_Foreign_Countries,0
+Lakshadweep,ZZ TOTAL,Family-Related Crime,Dowry_Deaths,0
+Lakshadweep,ZZ TOTAL,Sexual Crime,Custodial_Rape,0
+D&N Haveli,D and N HAVELI,Violent Crime,Hurt/Grevious_Hurt,6977
+D&N Haveli,D and N HAVELI,Property Crime,Theft,3008
+D&N Haveli,D and N HAVELI,Property Crime,Other_Theft,1818
+D&N Haveli,D and N HAVELI,Property Crime,Burglary,1813
+D&N Haveli,D and N HAVELI,Violent Crime,Riots,1613
+D&N Haveli,D and N HAVELI,Negligence,Causing_Death_By_Negligence,1386
+D&N Haveli,D and N HAVELI,Family-Related Crime,Cruelty_By_Husband_Or_His_Relatives,1241
+D&N Haveli,D and N HAVELI,Property Crime,Auto_Theft,1190
+D&N Haveli,D and N HAVELI,Sexual Crime,Assault_On_Women_With_Intent_To_Outrage_Her_Modesty,983
+D&N Haveli,D and N HAVELI,Trust/Deception Crime,Cheating,856
+D&N Haveli,D and N HAVELI,Violent Crime,Attempt_To_Murder,492
+D&N Haveli,D and N HAVELI,Sexual Crime,Other_Rape,407
+D&N Haveli,D and N HAVELI,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Women_And_Girls,192
+D&N Haveli,D and N HAVELI,Family-Related Crime,Dowry_Deaths,148
+D&N Haveli,D and N HAVELI,Trust/Deception Crime,Criminal_Breach_Of_Trust,143
+D&N Haveli,D and N HAVELI,Sexual Crime,Insult_To_Modesty_Of_Women,88
+D&N Haveli,D and N HAVELI,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Others,58
+D&N Haveli,D and N HAVELI,Property Crime,Preparation_And_Assembly_For_Dacoity,50
+D&N Haveli,D and N HAVELI,Violent Crime,Culpable_Homicide_Not_Amounting_To_Murder,36
+D&N Haveli,D and N HAVELI,Trust/Deception Crime,Counterfieting,21
+D&N Haveli,D and N HAVELI,Kidnapping/Abduction,Kidnapping_And_Abduction,7
+D&N Haveli,D and N HAVELI,Violent Crime,Murder,3
+D&N Haveli,D and N HAVELI,Other,Importation_Of_Girls_From_Foreign_Countries,2
+D&N Haveli,D and N HAVELI,Sexual Crime,Rape,2
+D&N Haveli,D and N HAVELI,Sexual Crime,Custodial_Rape,0
+D&N Haveli,D&N HAVELI,Property Crime,Burglary,61
+D&N Haveli,D&N HAVELI,Violent Crime,Hurt/Grevious_Hurt,53
+D&N Haveli,D&N HAVELI,Property Crime,Theft,46
+D&N Haveli,D&N HAVELI,Property Crime,Other_Theft,41
+D&N Haveli,D&N HAVELI,Sexual Crime,Assault_On_Women_With_Intent_To_Outrage_Her_Modesty,33
+D&N Haveli,D&N HAVELI,Sexual Crime,Other_Rape,30
+D&N Haveli,D&N HAVELI,Violent Crime,Riots,23
+D&N Haveli,D&N HAVELI,Violent Crime,Attempt_To_Murder,21
+D&N Haveli,D&N HAVELI,Family-Related Crime,Cruelty_By_Husband_Or_His_Relatives,19
+D&N Haveli,D&N HAVELI,Negligence,Causing_Death_By_Negligence,12
+D&N Haveli,D&N HAVELI,Property Crime,Auto_Theft,5
+D&N Haveli,D&N HAVELI,Trust/Deception Crime,Criminal_Breach_Of_Trust,4
+D&N Haveli,D&N HAVELI,Sexual Crime,Insult_To_Modesty_Of_Women,3
+D&N Haveli,D&N HAVELI,Family-Related Crime,Dowry_Deaths,2
+D&N Haveli,D&N HAVELI,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Women_And_Girls,2
+D&N Haveli,D&N HAVELI,Property Crime,Preparation_And_Assembly_For_Dacoity,1
+D&N Haveli,D&N HAVELI,Kidnapping/Abduction,Kidnapping_And_Abduction_Of_Others,1
+D&N Haveli,D&N HAVELI,Sexual Crime,Custodial_Rape,0
+D&N Haveli,D&N HAVELI,Sexual Crime,Rape,0
+D&N Haveli,D&N HAVELI,Trust/Deception Crime,Cheating,0
+D&N Haveli,D&N HAVELI,Trust/Deception Crime,Counterfieting,0
+D&N Haveli,D&N HAVELI,Other,Importation_Of_Girls_From_Foreign_Countries,0
+D&N Haveli,D&N HAVELI,Violent Crime,Culpable_Homicide_Not_Amounting_To_Murder,0
+D&N Haveli,D&N HAVELI,Kidnapping/Abduction,Kidnapping_And_Abduction,0
+D&N Haveli,D&N HAVELI,Violent Crime,Murder,0
